@@ -1,0 +1,86 @@
+[
+ {
+  "poste": "CSE – dotation ASC 2024",
+  "montant_M€": 14.2,
+  "pct_deficit_2025_(152,5 Md€)": 0.0093,
+  "pct_effort_2027_(54 Md€)": 0.026,
+  "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.0008
+ },
+ {
+  "poste": "Piscine CI-ORTF (coût Cour 2025)",
+  "montant_M€": 1.0,
+  "pct_deficit_2025_(152,5 Md€)": 0.0007,
+  "pct_effort_2027_(54 Md€)": 0.002,
+  "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.0001
+ },
+ {
+  "poste": "Mediawan – contrats FTV 2024 (FTV : 111 M€)",
+  "montant_M€": 111.0,
+  "pct_deficit_2025_(152,5 Md€)": 0.0728,
+  "pct_effort_2027_(54 Md€)": 0.206,
+  "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.0065
+ },
+ {
+  "poste": "Frais de mission FTV 2024",
+  "montant_M€": 46.003,
+  "pct_deficit_2025_(152,5 Md€)": 0.0302,
+  "pct_effort_2027_(54 Md€)": 0.085,
+  "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.0027
+ },
+ {
+  "poste": "Indemnités de départ – moyenne annuelle 2015-2025 (232/11, calcul de l'observatoire)",
+  "montant_M€": 21.091,
+  "pct_deficit_2025_(152,5 Md€)": 0.0138,
+  "pct_effort_2027_(54 Md€)": 0.039,
+  "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.0012
+ },
+ {
+  "poste": "Indemnités de départ – cumul 2015-2025 (232 M€)",
+  "montant_M€": 232.0,
+  "pct_deficit_2025_(152,5 Md€)": 0.1521,
+  "pct_effort_2027_(54 Md€)": 0.43,
+  "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.0135
+ },
+ {
+  "poste": "Hauts salaires : 31 salariés > chef de l'État, super brut cumulé",
+  "montant_M€": 10.813,
+  "pct_deficit_2025_(152,5 Md€)": 0.0071,
+  "pct_effort_2027_(54 Md€)": 0.02,
+  "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.0006
+ },
+ {
+  "poste": "Cannes 2024 (Alloncle ≈6 M€) ",
+  "montant_M€": 6.0,
+  "pct_deficit_2025_(152,5 Md€)": 0.0039,
+  "pct_effort_2027_(54 Md€)": 0.011,
+  "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.0004
+ },
+ {
+  "poste": "Cannes 2025 coût net (FTV 3,2 M€)",
+  "montant_M€": 3.2,
+  "pct_deficit_2025_(152,5 Md€)": 0.0021,
+  "pct_effort_2027_(54 Md€)": 0.006,
+  "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.0002
+ },
+ {
+  "poste": "Baisse des concours publics 2024-2026 vs trajectoire (FTV : 219 M€, cumul 3 ans)",
+  "montant_M€": 219.0,
+  "pct_deficit_2025_(152,5 Md€)": 0.1436,
+  "pct_effort_2027_(54 Md€)": 0.406,
+  "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.0128
+ },
+ {
+  "poste": "Économies proposées par le rapport Alloncle (≈1 Md€/an)",
+  "montant_M€": 1000.0,
+  "pct_deficit_2025_(152,5 Md€)": 0.6557,
+  "pct_effort_2027_(54 Md€)": 1.852,
+  "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.0583
+ },
+ {
+  "poste": "Concours publics FTV, LFI 2025 (2 506 M€)",
+  "montant_M€": 2506.0,
+  "pct_deficit_2025_(152,5 Md€)": 1.6433,
+  "pct_effort_2027_(54 Md€)": 4.641,
+  "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.1462
+ }
+]

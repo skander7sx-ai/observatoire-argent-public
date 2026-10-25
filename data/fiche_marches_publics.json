@@ -1,0 +1,108 @@
+{
+ "id": "marches-publics-exclusion-programmes",
+ "titre": "Marchés publics et audiovisuel public : les achats de programmes sont exclus de la mise en concurrence obligatoire",
+ "montant": "864 M€ d'achats de programmes externes (2024) ; Mediawan 44 M€ (2018) → 111 M€ (2024), chiffres FTV",
+ "date": "2026-05-13",
+ "tags": [
+  "gouvernance",
+  "production privée"
+ ],
+ "statut_global": "Nuancé",
+ "mecanisme_exact": {
+  "statut": "Confirmé",
+  "texte": "Le « code des marchés publics » est abrogé : le droit applicable est le code de la commande publique (CCP, en vigueur depuis le 01/04/2019, ordonnance n°2018-1074 du 26/11/2018). L'exclusion des programmes figure à l'article L2513-1 (Livre V « Autres marchés publics », Titre Ier, Chapitre III), PAS à l'article L2512-5 (qui vise immobilier, R&D, arbitrage, transport ferroviaire, services financiers, services juridiques…). Texte de L2513-1 : « Sont soumis aux règles définies au titre II les marchés publics de services conclus par un pouvoir adjudicateur qui : 1° Soit sont relatifs aux temps de diffusion ou à la fourniture de programmes lorsqu'ils sont attribués à des éditeurs de services de communication audiovisuelle ou à des organismes de radiodiffusion ; 2° Soit ont pour objet l'achat, le développement, la production ou la coproduction de programmes destinés à la diffusion et qui sont attribués par des éditeurs de services de communication audiovisuelle ou radiophonique. La notion de programme inclut le matériel pour programme à l'exclusion du matériel technique. » Base européenne : directive 2014/24/UE, art. 10 point b (« La présente directive ne s'applique pas aux marchés publics de services ayant pour objet : … b) l'achat, le développement, la production ou la coproduction de matériel de programmes destiné à des services de médias audiovisuels ou radiophoniques qui sont passés par des fournisseurs de services de médias… ») et considérant 23 : « …considérations revêtant une importance culturelle et sociale, qui rendent inadéquate l'application de règles de passation des marchés ». Cette exclusion ne couvre pas le matériel technique ni les achats hors programmes.",
+  "sources": [
+   "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000037701019/LEGISCTA000037704573/ (L2512-4 et L2512-5, version du 28/05/2026 : pas de clause médias)",
+   "https://www.code-commande-publique.com/exclusions-autres-marches/ (plan Livre V) et https://www.code-commande-publique.com/exclusions-autres-marches/marches-publics-conclus-par-un-pouvoir-adjudicateur-exclusions/ (texte L2513-1 + fiche DAJ 2016, site commenté non officiel)",
+   "https://eur-lex.europa.eu/eli/dir/2014/24/oj?locale=fr (considérant 23)",
+   "https://www.doctrine.fr/l/texts/eu/directives/EULEG0ADFAC0141E8F242D6B7/articles/EULEGARTI8352B98DBD7141D6A7FF (art. 10)"
+  ],
+  "reserves": [
+   "Texte de L2513-1 lu sur des reproductions (Juriblio, Lexbase, code-commande-publique.com) ; le texte Légifrance de L2513-1 lui-même n'a pas pu être ouvert (404) : recontrôler.",
+   "L2513-1 renvoie au Titre II du Livre V (L2521-1 à L2521-5) ; le contenu de ces articles n'a PAS été lu : ne pas écrire que ces marchés échappent à toute règle.",
+   "FTV cite le considérant n°25 de la directive 2004/18/CE (abrogée). Équivalent actuel vérifié : considérant 23 de la 2014/24/UE. Le texte du considérant 25 de 2004/18 n'a pas été relu à la source."
+  ]
+ },
+ "exception_oeuvre_artistique": {
+  "statut": "Corrigé / Non vérifié",
+  "texte": "Le fondement n'est PAS une exception « œuvre artistique / bien culturel » : c'est l'exclusion des marchés de services de médias (achat, développement, production, coproduction de programmes) par les éditeurs de services audiovisuels. Les « critères artistiques et éditoriaux » invoqués par la Cour des comptes (2016, p.94, cité dans le rapport Alloncle p.266) sont une justification de cette exclusion, pas une exception distincte. Une éventuelle dérogation du CCP pour œuvre d'art / droits exclusifs (marché négocié sans publicité) n'a pas été vérifiée et ne doit pas être invoquée ici."
+ },
+ "rapport_alloncle": {
+  "statut": "Confirmé (pages selon le miroir audiovisuel-public.com, à recontrôler sur le PDF officiel)",
+  "source": "https://audiovisuel-public.com/le-rapport/chapitre/axe-ii-conflits-interets/",
+  "citations": [
+   {
+    "page": "266",
+    "texte": "« les achats de programmes et d'émissions sont exclus du champ d'application de ces règles du fait de « l'importance, dans les choix, des critères artistiques et éditoriaux qui laisse une large marge d'appréciation au décideur ou au prescripteur » (Cour des comptes, rapport public thématique, octobre 2016, p. 94). Le rapport cite l'ordonnance n°2015-899 art. 14, 14° (substituée depuis par le CCP) : références partiellement obsolètes."
+   },
+   {
+    "page": "267",
+    "texte": "« S'il est compréhensible de ne pas soumettre les marchés de programmes à des règles conférant au critère de prix un poids prépondérant… il ne paraît pas pertinent d'exclure les contrats d'achats de programmes des règles de droit commun pour ce qui concerne la procédure de passation du marché (publicité, mise en concurrence préalable)… De telles règles doivent permettre d'éviter des choix (même inconscients) fondés sur la sympathie des dirigeants pour tel ou tel producteur ou sur des critères d'affinité culturelle, idéologique, voire politique. » + « Recommandation n° 21 (Parlement) : Soumettre les marchés de programmes audiovisuels aux règles de la commande publique. » (FTV cite ce passage comme « p. 273 du rapport » : écart de pagination à lever.)"
+   },
+   {
+    "page": "267 (Cour 2016 p.91)",
+    "texte": "« à l'exception du passage en sous-comité des engagements pour les projets supérieurs à 10 millions d'euros, le processus de décision qui conduit à la passation d'une commande de programme repose sur des échanges informels entre l'antenne, la direction de la production et des moyens des antennes (PMDA) et le producteur, pratique qui rend la traçabilité des décisions difficiles à établir. » (Cour des comptes, octobre 2016 : constat vieux de 10 ans ; la Cour 2025 relève des renforcements, cf. réponse FTV p.69.)"
+   },
+   {
+    "page": "268-269",
+    "texte": "Processus FTV décrit au rapporteur : engagements > 600 000 € et tous les prime time → comité d'investissement des programmes ; > 2 M€ signature de la présidente ; > 10 M€ conseil d'administration. Le rapporteur : « Cette procédure demeure toutefois opaque. Dès lors qu'elle n'exige aucun appel d'offres, aucune mise en concurrence, aucune comparaison avec d'autres offres lors du renouvellement… »"
+   },
+   {
+    "page": "273",
+    "texte": "« l'obligation de mise en concurrence effective pour tout contrat de production supérieur à un million d'euros, afin de mettre fin aux reconductions tacites et aux relations de gré à gré qui caractérisent aujourd'hui une fraction significative du portefeuille de commandes » ; plafond de 10 % du budget annuel par groupe ; préférence aux producteurs réellement indépendants (recommandation n°23 selon FTV)."
+   }
+  ],
+  "reserves": [
+   "« une fraction significative du portefeuille » : aucune quantification trouvée → NON VÉRIFIÉ.",
+   "Thèse du rapporteur ≠ fait établi : seul le régime d'exclusion est un fait de droit."
+  ]
+ },
+ "mediawan_44_a_110": {
+  "statut": "Confirmé (chiffres FTV) / Nuancé (interprétation)",
+  "texte": "Origine du « 44 M€ » : note de FTV au rapporteur, reprise dans la réponse FTV du 13/05/2026 (p.75 du PDF) : « entre 2018 et 2024, le chiffre d'affaires réalisé avec France Télévisions est passé de 44 M€ à 111 M€, soit une augmentation de 152 %, tandis que le nombre de sociétés du groupe contractant avec France Télévisions est passé de 13 à 28, soit une hausse de 115 %, après réorganisation (+ 146 % en 2023). Il en est de même pour Banijay, dont le chiffre d'affaires avec France Télévisions est passé de 36 M€ à 87 M€ ». Le rapport Alloncle (chapitre Axe II, section « Concentration et opacité », pp.271-275 selon le sommaire du miroir) reprend : « plus de 110 millions d'euros de contrats… en 2024 contre 44 millions d'euros en 2018, soit une augmentation de 152 % en seulement six ans ». Périmètre : chiffre d'affaires cumulé des sociétés du groupe Mediawan avec FTV (13 puis 28 sociétés), pas un contrat unique. Correction d'un verdict antérieur : le chiffre « 111 » n'est pas seulement journalistique, c'est le chiffre propre de FTV pour 2024 ; le rapport écrit « plus de 110 millions d'euros ».",
+  "reponse_FTV": "FTV (réponse du 13/05/2026) : « phénomène de concentration et de fusion-absorption au sein du milieu de la production » ; Mediawan et Banijay représentent « respectivement 11,6% et 11,4% du chiffre d'affaires réalisé par l'ensemble du secteur de la production avec France Télévisions », ce qui « n'est pas le fruit d'une décision délibérée de l'entreprise » ; les 29 sociétés Mediawan et les 17 sociétés Banijay « étaient déjà, pour la plupart, en relations d'affaires avec France Télévisions avant qu'elles ne soient rachetées » ; coût de grille du programme national en baisse de près de 20 % depuis 2015. Réponse de Mediawan aux auditions : non retranscrite ici (compte rendu n°46 non relu en détail) → NON VÉRIFIÉ.",
+  "sans_appel_d_offres_transparent": "NUANCÉ : l'absence d'obligation d'appel d'offres est un fait de droit (L2513-1). Que ces contrats se fassent « sans mise en concurrence » en pratique n'est PAS établi : FTV affirme que « de nombreux projets font déjà l'objet d'appels à projets, d'appels à concepts ou de consultations » (réponse FTV p.70-71) et annonce une plateforme de dépôt des projets « dans les prochains mois » ; le rapporteur parle de « gré à gré » et de « reconductions tacites » sans chiffrer."
+ },
+ "contrats_emissions": {
+  "statut": "Nuancé / Non vérifié",
+  "texte": "C dans l'air et C à vous (France 5) : produites par Mediawan, d'après le compte rendu n°46 de la commission (question du rapporteur : « Vous produisez notamment deux émissions de flux pour France 5 : « C dans l'air » et « C à vous » ») ; Mediawan + Together Media assureraient près de 80 % des émissions de flux de France 5 (Alloncle, CR n°20 ; rapport p.264). FTV : formats appartenant aux producteurs, donc impossibles à « internaliser » (réponse FTV rec. 22) ; décret n°95-71 art. 20 imposait le recours aux prestataires extérieurs pour la fabrication. Marges observées/déclarées : voir fiche marges (C à vous 18 % vs 8 %, C dans l'air 12 % vs 5 %). Durée des contrats, reconduction, mise en concurrence ou non : AUCUNE source primaire trouvée → NON VÉRIFIÉ. Envoyé spécial : producteur, montants et procédure NON RECHERCHÉS/NON VÉRIFIÉS.",
+  "sources": [
+   "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/ceaudio/l17ceaudio2526046_compte-rendu.pdf",
+   "https://static.francetelevisions.fr/inline-images/20260513%20R%C3%A9ponse%20FTV%20Rapport%20CE%20v2.pdf"
+  ]
+ },
+ "autres_sources_juridiques": [
+  {
+   "source": "CJUE, 13/12/2007, Bayerischer Rundfunk, aff. C-337/06, pt 62",
+   "statut": "Non vérifié (cité par la fiche DAJ 2016, site commenté ; arrêt non relu)"
+  },
+  {
+   "source": "Cour de discipline budgétaire et financière, arrêts n°797 et 798 du 28/07/2020 (« France Télévisions : les achats hors programmes » : trois cadres condamnés pour pratiques irrégulières d'achat public de fournitures et prestations)",
+   "url": "https://www.ccomptes.fr/fr/publications/france-televisions-les-remunerations/les-achats-hors-programmes",
+   "statut": "Confirmé (communiqué lu) ; arrêt non lu. Montre que les achats HORS programmes sont soumis aux règles."
+  },
+  {
+   "source": "Canard enchaîné 14/09/2016 via Décision-Achats : 569 M€ d'achats hors programmes 2014, 54 marchés de conseil sur 95 sans mise en concurrence",
+   "url": "https://www.decision-achats.fr/Thematique/achats-publics-1230/Breves/France-Televisions-epinglee-non-respect-clauses-concurrence-dans-ses-marches-309010.htm",
+   "statut": "Non vérifié (secondaire, rapport de la Cour non lu)"
+  },
+  {
+   "source": "Conseil d'État, Autorité de la concurrence, Arcom, doctrine universitaire sur le sujet",
+   "statut": "Non vérifié : aucun avis spécifique trouvé"
+  }
+ ],
+ "reponse_FTV": {
+  "source": "https://static.francetelevisions.fr/inline-images/20260513%20R%C3%A9ponse%20FTV%20Rapport%20CE%20v2.pdf (rec. 21, 22, 23, 25, pp.9-12 ; pp.69-71 ; p.75)",
+  "citations": [
+   "« la création audiovisuelle étant une industrie de “prototypes”, la faire entrer dans le champ de la commande publique serait un non-sens, porterait une atteinte majeure à la liberté éditoriale des médias de service public et contreviendrait au droit de l'Union européenne »",
+   "« Un tel délai [trois semaines pour « Les rencontres du Papotin »] aurait été impossible en recourant au code de la commande publique. »",
+   "« Cette spécificité ne signifie pas absence de concurrence. »",
+   "En 2025 : 850 producteurs et distributeurs, dont 712 considérés comme indépendants, représentant 45 % du chiffre d'affaires (réponse FTV, lignes 441 et 2844 du texte extrait)."
+  ],
+  "note": "« contreviendrait au droit de l'Union européenne » : formulation de FTV ; le droit de l'UE (directive 2014/24 art. 10 b) autorise l'exclusion, il ne l'impose pas : NUANCÉ."
+ },
+ "reserves_generales": [
+  "Le débat porte sur ce que la loi permet (exclusion) et sur le choix de ne pas appliquer la mise en concurrence par défaut, pas sur une illégalité.",
+  "Les montants ne se cumulent pas avec ceux d'autres fiches."
+ ]
+}

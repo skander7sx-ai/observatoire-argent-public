@@ -1,0 +1,114 @@
+{
+ "rubrique": "Enquêteurs et essayistes",
+ "fiches": [
+  {
+   "id": "knafo-casse-du-siecle",
+   "auteur": "Sarah Knafo",
+   "titre": "« Le Casse du siècle » (Fayard, 02/09/2026, 286 p., 19,90 €, EAN 9782213733135)",
+   "statut_global": "Nuancé",
+   "tags": [
+    "gouvernance",
+    "Privatisation des gains / socialisation des pertes"
+   ],
+   "montant": "non chiffré (thèse : préjudice d'environ 1 M€ par salarié sur une carrière)",
+   "these_auteur": "Un « casse légal » : l'État prélèverait sans contrepartie suffisante ; livre construit comme une enquête fictive autour d'un salarié, « Nicolas Durand » (3 922 € de coût employeur, 2 079 € nets) ; 15 résolutions ; propose 800 000 suppressions de postes en 5 ans et 40 Md€ d'économies par an.",
+   "faits_verifies": [
+    {
+     "fait": "Publication, éditeur, pagination, prix",
+     "statut": "Confirmé",
+     "source": "Fayard https://www.fayard.fr/livre/le-casse-du-siecle-9782213733135/ ; BnF https://nouveautes-editeurs.bnf.fr/accueil?id_declaration=10000001388950&titre_livre=Le_Casse_du_si%C3%A8cle"
+    },
+    {
+     "fait": "« La plupart des données citées sont bien réelles », dont des « prix parfois gonflés de la commande publique »",
+     "statut": "Nuancé (jugement de franceinfo, 08/09/2026)",
+     "source": "https://www.franceinfo.fr/vrai-ou-fake/vrai-ou-faux-sarah-knafo-a-t-elle-raison-de-denoncer-dans-son-livre-un-casse-du-siecle-orchestre-par-l-etat-au-detriment-des-contribuables_8175293.html"
+    },
+    {
+     "fait": "« Préjudice » de 940 500 € sur 43 ans de carrière (1 843 €/mois)",
+     "statut": "Nuancé : Bozio (IPP) : « A priori, il n'y a aucun préjudice, sauf si… une autre organisation permettrait de payer moins cher pour les mêmes services » ; la pension (≈1 500 €/mois selon l'auteure) n'est pas déduite",
+     "source": "idem franceinfo"
+    },
+    {
+     "fait": "15 Md€/an de « prix du laxisme » (40,3 % de récidivistes appliqués à 38,5 Md€)",
+     "statut": "Nuancé / contesté : 40,3 % = part des condamnés, pas des dépenses (Annie Kensey)",
+     "source": "idem franceinfo"
+    },
+    {
+     "fait": "3,7 millions d'agents « inutiles » sur 5,9 M",
+     "statut": "Non vérifié : c'est un solde de soustraction, pas un chiffre de postes inutiles (François Ecalle, Fipeco) ; 800 000 postes ≈ 30-40 Md€/an selon Ecalle (ordre de grandeur confirmé)",
+     "source": "idem franceinfo"
+    },
+    {
+     "fait": "Éditeur appartenant à la galaxie Bolloré ; tirage de 100 000 exemplaires",
+     "statut": "Non vérifié (affirmation de BFMTV, 02/09/2026)",
+     "source": "https://www.bfmtv.com/politique/reconquete/retraite-critique-de-marine-le-pen-hommage-a-javier-milei-ce-que-contient-le-livre-ou-va-l-argent-de-sarah-knafo_AN-202609020040.html"
+    }
+   ],
+   "non_verifie": [
+    "Contenu intégral du livre non lu : seules des recensions (franceinfo, BFMTV, Les Observateurs) ont été lues.",
+    "Questions parlementaires européennes/françaises de S. Knafo sur l'argent public : aucune retrouvée (la recherche sur les ONG européennes n'a remonté que d'autres auteurs) → NON VÉRIFIÉ.",
+    "Posts X à fort engagement : seuls ceux des 22-23/10/2026 sur le coût de l'audiovisuel (3,8 Md€) ont été lus (voir rapport)."
+   ]
+  },
+  {
+   "id": "jovanovic",
+   "auteur": "Pierre Jovanovic",
+   "statut_global": "Non vérifié (sur le titre demandé) / hors critère « argent public français »",
+   "identification": "Journaliste et éditeur français né en 1960, fondateur des éditions Le Jardin des Livres. Livres financiers recensés (Wikipédia, source secondaire) : Blythe Masters (2011), L'histoire de John Law (2016), Adolf Hitler ou la vengeance de la planche à billets (2017), Le scandale De Litra (2019), 2008 (2025). Un livre intitulé « Révélation : l'argent secret des banques » ou titre proche n'a PAS été retrouvé.",
+   "these_auteur": "Critique du système bancaire, partisan de l'or et des cryptomonnaies ; thèses qualifiées de conspirationnistes par Conspiracy Watch (source critique).",
+   "sources": [
+    "https://fr.wikipedia.org/wiki/Pierre_Jovanovic",
+    "https://www.conspiracywatch.info/notice/pierre-jovanovic"
+   ],
+   "decision": "Aucun fait chiffré sur l'argent public français vérifiable n'a été isolé : pas de fiche factuelle. À placer dans la liste « non vérifié »."
+  },
+  {
+   "id": "marleix",
+   "auteur": "Olivier Marleix (« Olivier Marlex » dans la demande : identification par homonymie probable, à confirmer)",
+   "statut_global": "Nuancé",
+   "livres": [
+    {
+     "titre": "Les liquidateurs",
+     "editeur": "Robert Laffont",
+     "date": "04/02/2021",
+     "pages": 252,
+     "ean": "9782221251874",
+     "url": "https://www.librairie-gallimard.com/livre/9782221251874-les-liquidateurs-olivier-marleix/"
+    },
+    {
+     "titre": "Dissolution française, la fin du macronisme",
+     "editeur": "Robert Laffont",
+     "date": "13/11/2025",
+     "url": "https://www.off-investigation.fr/olivier-marleix-homme-qui-accusait-macron-avoir-vendu-la-france/"
+    }
+   ],
+   "these_auteur": "Une élite aurait « liquidé » des fleurons industriels (vente d'Alstom énergie à General Electric, 2014-2015) ; thèse d'auteur ; résumé éditeur.",
+   "faits_a_remonter": "La commission d'enquête de l'Assemblée sur Alstom (2018, présidée par O. Marleix) est une source primaire (rapport AN) NON LUE ici → les faits chiffrés restent NON VÉRIFIÉS."
+  },
+  {
+   "id": "donnes",
+   "auteur": "Éric Donnès",
+   "statut_global": "Non vérifié : auteur/ouvrage non identifié",
+   "texte": "Aucun auteur, livre, enquête ou document sourcé n'a été retrouvé sous ce nom malgré deux recherches (variantes d'orthographe incluses). Aucun contenu à traiter. Si l'utilisateur dispose d'un titre, d'une URL ou d'un extrait, le fournir pour vérification."
+  },
+  {
+   "id": "toscer-argent-public-fortunes-privees",
+   "auteur": "Olivier Toscer",
+   "titre": "Argent public, fortunes privées : histoire secrète du favoritisme d'État (Denoël, 2002 ; Folio Documents n°15, 16/10/2003, 304 p.)",
+   "statut_global": "Non vérifié (source ancienne)",
+   "tags": [
+    "Privatisation des gains / socialisation des pertes"
+   ],
+   "these_auteur": "Système de transfert de richesse publique vers des grands groupes et fortunes (« nationaliser les pertes et privatiser les profits » selon l'auteur dans Acrimed, 15/01/2003).",
+   "sources": [
+    "https://www.acrimed.org/Argent-public-fortunes-privees-Cachez-ce-livre-que-je-ne-saurais-voir"
+   ],
+   "decision": "Livre d'enquête pertinent par le thème, mais faits datés de 2002, non remontés aux sources primaires : bibliographie uniquement."
+  },
+  {
+   "id": "autres-pistes",
+   "statut_global": "Non vérifié",
+   "texte": "Blogs d'enquête, sites spécialisés et documentaires sur l'argent public : non explorés au-delà de ce qui précède (audiovisuel-public.com est un miroir citoyen du rapport Alloncle, utile pour la pagination mais non officiel). Complément d'enquête (Waleckx) : coût de 1 800 €/minute, déclaration de l'intéressé (Capital, 23/10/2026)."
+  }
+ ]
+}

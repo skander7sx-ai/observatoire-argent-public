@@ -1,0 +1,169 @@
+{
+ "id": "grand-ecart",
+ "titre": "Le grand écart : des dérives documentées à l'échelle de la dette, du déficit et de l'effort d'économies annoncé",
+ "montant": "non chiffré (mise à l'échelle)",
+ "date": "2026-10-25",
+ "tags": [
+  "gouvernance",
+  "Privatisation des gains / socialisation des pertes"
+ ],
+ "statut_global": "Nuancé",
+ "repères_macro": [
+  {
+   "indicateur": "Dette publique (Maastricht), fin T2 2026",
+   "valeur": "3 595,5 Md€ = 119,0 % du PIB",
+   "statut": "Confirmé",
+   "source": "Insee, Informations rapides n°239, 29/09/2026",
+   "url": "https://www.insee.fr/fr/statistiques/9053525"
+  },
+  {
+   "indicateur": "Déficit public 2025",
+   "valeur": "152,5 Md€ = 5,1 % du PIB (5,8 % en 2024)",
+   "statut": "Confirmé (premiers résultats, révisables)",
+   "source": "Insee, Informations rapides n°78, 27/03/2026",
+   "url": "https://www.insee.fr/fr/statistiques/8956575"
+  },
+  {
+   "indicateur": "Dépenses publiques 2025",
+   "valeur": "1 714,1 Md€ = 57,2 % du PIB",
+   "statut": "Confirmé",
+   "source": "Insee, compléments à l'IR n°78",
+   "url": "https://www.insee.fr/fr/statistiques/documentation/annexe_ir_prov_apu--20260326.pdf"
+  },
+  {
+   "indicateur": "Dette fin 2025",
+   "valeur": "3 460,5 Md€ = 115,6 % du PIB",
+   "statut": "Confirmé",
+   "source": "Insee, Informations rapides n°78, 27/03/2026 (dette fin 2025 : 3 460,5 Md€ = 115,6 % du PIB)",
+   "url": "https://www.insee.fr/fr/statistiques/8956575"
+  },
+  {
+   "indicateur": "Dette fin 2017 et fin 2007",
+   "valeur": "98,5 % et 65,4 % du PIB (2 263,3 Md€ et 1 268,9 Md€ selon la synthèse d'une recherche)",
+   "statut": "Nuancé : pourcentages lus dans le jeu de données comptespublics.fr (relais de l'Insee) ; montants en € à recontrôler sur insee.fr/fr/statistiques/2830301",
+   "url": "https://comptespublics.fr/series/dette-publique/millesimes/2025-03-27/donnees.csv"
+  },
+  {
+   "indicateur": "PLF 2027 : effort de redressement",
+   "valeur": "54 Md€ dont 43 Md€ dans les textes financiers ; déficit cible 5,0 % du PIB en 2027 (5,4 % estimé 2026 selon Touteleurope) ; dette 2026 : 119,3 % du PIB ; charge des intérêts 79,2 Md€ (2026) → 91,2 Md€ (2027) ; « pas de hausse générale des impôts »",
+   "statut": "Confirmé (dossier de presse du gouvernement, octobre 2026, lu via extraits de recherche, PDF non ouvert) ; périmètre « charge des intérêts » non précisé",
+   "url": "https://solidarites.gouv.fr/sites/solidarite/files/2026-10/DP-BUDGET-2027.pdf"
+  },
+  {
+   "indicateur": "Charge d'intérêts des APU 2025",
+   "valeur": "64,7 Md€ (58,1 Md€ en 2024)",
+   "statut": "Non vérifié à la source primaire (site secondaire dettedelafrance.fr) ; périmètre différent de la ligne PLF ci-dessus : ne pas comparer"
+  }
+ ],
+ "echelles": [
+  {
+   "poste": "CSE – dotation ASC 2024",
+   "montant_M€": 14.2,
+   "pct_deficit_2025_(152,5 Md€)": 0.0093,
+   "pct_effort_2027_(54 Md€)": 0.026,
+   "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.0008
+  },
+  {
+   "poste": "Piscine CI-ORTF (coût Cour 2025)",
+   "montant_M€": 1.0,
+   "pct_deficit_2025_(152,5 Md€)": 0.0007,
+   "pct_effort_2027_(54 Md€)": 0.002,
+   "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.0001
+  },
+  {
+   "poste": "Mediawan – contrats FTV 2024 (FTV : 111 M€)",
+   "montant_M€": 111.0,
+   "pct_deficit_2025_(152,5 Md€)": 0.0728,
+   "pct_effort_2027_(54 Md€)": 0.206,
+   "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.0065
+  },
+  {
+   "poste": "Frais de mission FTV 2024",
+   "montant_M€": 46.003,
+   "pct_deficit_2025_(152,5 Md€)": 0.0302,
+   "pct_effort_2027_(54 Md€)": 0.085,
+   "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.0027
+  },
+  {
+   "poste": "Indemnités de départ – moyenne annuelle 2015-2025 (232/11, calcul de l'observatoire)",
+   "montant_M€": 21.091,
+   "pct_deficit_2025_(152,5 Md€)": 0.0138,
+   "pct_effort_2027_(54 Md€)": 0.039,
+   "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.0012
+  },
+  {
+   "poste": "Indemnités de départ – cumul 2015-2025 (232 M€)",
+   "montant_M€": 232.0,
+   "pct_deficit_2025_(152,5 Md€)": 0.1521,
+   "pct_effort_2027_(54 Md€)": 0.43,
+   "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.0135
+  },
+  {
+   "poste": "Hauts salaires : 31 salariés > chef de l'État, super brut cumulé",
+   "montant_M€": 10.813,
+   "pct_deficit_2025_(152,5 Md€)": 0.0071,
+   "pct_effort_2027_(54 Md€)": 0.02,
+   "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.0006
+  },
+  {
+   "poste": "Cannes 2024 (Alloncle ≈6 M€) ",
+   "montant_M€": 6.0,
+   "pct_deficit_2025_(152,5 Md€)": 0.0039,
+   "pct_effort_2027_(54 Md€)": 0.011,
+   "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.0004
+  },
+  {
+   "poste": "Cannes 2025 coût net (FTV 3,2 M€)",
+   "montant_M€": 3.2,
+   "pct_deficit_2025_(152,5 Md€)": 0.0021,
+   "pct_effort_2027_(54 Md€)": 0.006,
+   "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.0002
+  },
+  {
+   "poste": "Baisse des concours publics 2024-2026 vs trajectoire (FTV : 219 M€, cumul 3 ans)",
+   "montant_M€": 219.0,
+   "pct_deficit_2025_(152,5 Md€)": 0.1436,
+   "pct_effort_2027_(54 Md€)": 0.406,
+   "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.0128
+  },
+  {
+   "poste": "Économies proposées par le rapport Alloncle (≈1 Md€/an)",
+   "montant_M€": 1000.0,
+   "pct_deficit_2025_(152,5 Md€)": 0.6557,
+   "pct_effort_2027_(54 Md€)": 1.852,
+   "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.0583
+  },
+  {
+   "poste": "Concours publics FTV, LFI 2025 (2 506 M€)",
+   "montant_M€": 2506.0,
+   "pct_deficit_2025_(152,5 Md€)": 1.6433,
+   "pct_effort_2027_(54 Md€)": 4.641,
+   "pct_depenses_publiques_2025_(1 714,1 Md€)": 0.1462
+  }
+ ],
+ "lecture": "Aucun poste documenté dans l'audiovisuel public ne pèse plus de 0,15 % du déficit 2025 pris isolément (hors budget total de FTV, 1,6 %). Même additionnés (ce que l'observatoire déconseille : natures et périmètres différents), ils resteraient sous 0,5 % du déficit. L'argument du grand écart porte donc sur la cohérence (ce qui est demandé aux autres vs ce qui est toléré), pas sur la résorption de la dette : le rapport Alloncle lui-même chiffre ses économies à ≈1 Md€ par an, soit 1,85 % de l'effort 2027 et 0,66 % du déficit 2025.",
+ "discours_officiel": [
+  {
+   "citation": "« Il n'y a pas d'argent magique »",
+   "auteur": "Philippe Juvin, rapporteur général du budget (LR), à l'Assemblée sur la TVA (Sud Ouest, PLF 2027). N'est PAS une citation du Premier ministre.",
+   "statut": "Confirmé (presse), source primaire (compte rendu de la commission des finances) non retrouvée",
+   "url": "https://www.sudouest.fr/economie/impots/budget-2027-panneaux-solaires-transports-cours-de-ski-television-la-bataille-de-la-tva-enflamme-l-assemblee-30997931.php"
+  },
+  {
+   "citation": "« Nous ne réduisons pas les dépenses, nous les maîtrisons »",
+   "auteur": "Sébastien Lecornu, Premier ministre, interview au Figaro du 17/09/2026 selon politique-france.info",
+   "statut": "Non vérifié : relayé par un site secondaire, interview non lue"
+  },
+  {
+   "citation": "« la France est ruinée » ; « plus d'argent » (slogan)",
+   "statut": "Non vérifié : aucune déclaration datée et attribuée retrouvée ; ne pas publier sans source"
+  }
+ ],
+ "audiovisuel_public": {
+  "coupes": "FTV : baisse de 219 M€ des concours publics sur 2024-2026 par rapport à la trajectoire initiale et de 15 M€ entre PLF et LFI 2026 (réponse FTV du 13/05/2026) : déclaration de FTV, trajectoire de référence non publiée → NUANCÉ ; concours publics PLF 2027 : 3,82 Md€ (synthèse de recherche, PAP 2027 non ouvert) → NON VÉRIFIÉ.",
+  "reponse_FTV": "FTV (réponse du 13/05/2026) : le coût net du Festival de Cannes 2025 est de 3,2 M€ (−700 k€ vs 2024), « essentiellement des dépenses de production » ; FTV conteste la lecture des postes (CSE, indemnités, missions) comme des dérives et la comparaison avec le déficit de l'État. Éléments détaillés (obligations légales du CSE, droit du travail pour les indemnités) : à reprendre mot à mot dans la réponse FTV avant publication — non recontrôlés ici."
+ },
+ "autres_coupes_services_publics": "Non vérifié : aucune coupe chiffrée par service public (hôpital, justice, école) n'a été lue à la source ; le dossier de presse indique des hausses pour les Armées (+6,4 Md€), la Justice, l'Intérieur, la Recherche, l'Éducation, l'Écologie.",
+ "contre_these": "Heyer, Lokiec, Méda, « Les caisses sont vides ! Le grand malentendu » (Flammarion, octobre 2026, recensé par Libération le 24/10/2026) : thèse d'auteurs, selon laquelle le déficit vient surtout de la baisse des recettes, pas d'une dérive de la dépense. Lien : https://www.liberation.fr/economie/si-les-caisses-sont-vides-cest-aussi-parce-quelles-sont-mal-remplies-le-petit-livre-qui-demystifie-la-dette-20261024_AJRMBASF7RGVVER6LEUIK5XO4Y/ (article lu partiellement, abonnés).",
+ "règle_editoriale": "Toujours afficher le rapport du montant au déficit, à l'effort et à la dépense ; ne jamais additionner des montants de natures différentes ; mentionner que FTV conteste la comparabilité."
+}

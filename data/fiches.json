@@ -1,0 +1,1148 @@
+[
+ {
+  "id": "cse-14-2m",
+  "titre": "Comités sociaux : 14,2 M€ de subventions en 2024 (dont piscine de 1 M€ au domaine de Lalinde)",
+  "montant": "14,2 M€ (2024) ; 13,6 M€ (2019)",
+  "date": "2025-09-23",
+  "tags": [
+   "CSE-avantages"
+  ],
+  "statut": "Confirmé",
+  "source": {
+   "organisme": "Cour des comptes",
+   "document": "Cour des comptes, « France Télévisions, exercices 2017-2024 » (S2025-1126-1), publié le 23/09/2025",
+   "page": "p. 104 (page PDF)",
+   "url": "https://www.ccomptes.fr/sites/default/files/2025-09/20250923-S2025-1126-1-France-Televisions.pdf"
+  },
+  "faits": [
+   "La Cour écrit : « de 13,6 M€ en 2019, elle s'élève à 14,2 M€ en 2024, couvrant notamment l'activité de restauration. »",
+   "Le même passage décrit un « château de Lalinde doté d'un parc de 115 hectares et d'une piscine qui a coûté 1 M€ ».",
+   "63 % du financement des activités sociales et culturelles va au comité interentreprises (ex CI-ORTF) (même page)."
+  ],
+  "reponse_ftv": "Réponse de FTV du 13/05/2026 : aucun passage sur le CSE retrouvé par recherche de mots-clés (CSE, ASC, comité d'entreprise). À compléter.",
+  "reserves": [
+   "Le montant est une charge récurrente fixée par accord et par assiette de calcul (la Cour parle de « constance des taux »), pas une dérive ponctuelle.",
+   "Le 1 M€ de la piscine est un coût passé (année non précisée dans l'extrait lu)."
+  ],
+  "camp": [
+   "macroniste"
+  ],
+  "camp_pourquoi": [
+   "C1 – Chiffres 2019 (13,6 M€) et 2024 (14,2 M€) : intégralement sous la présidence d'Emmanuel Macron (depuis le 14/05/2017).",
+   "C2 – Financement par la dotation publique votée sous cet exécutif. C2 – La dirigeante de France Télévisions, Delphine Ernotte Cunci, a été nommée par le CSA le 23/04/2015, puis reconduite par le CSA le 22/07/2020 et par l'Arcom le 14/05/2025 (autorités indépendantes, sous deux exécutifs, Hollande puis Macron : cette nomination ne rattache donc pas la fiche à un camp).",
+   "C3/C4 – Source : Cour des comptes (non partisane) ; aucun acteur politique ni lecture politique cités dans la source."
+  ],
+  "camp_resume": "2019-2024 sous exécutif Macron ; Cour des comptes, aucun acteur partisan"
+ },
+ {
+  "id": "salaire-moyen",
+  "titre": "Salaire moyen par tête à France Télévisions : 73 690 € en 2024",
+  "montant": "73 690 € brut (2024) ; 71 490 € (2023)",
+  "date": "2025-09-23",
+  "tags": [
+   "salaires"
+  ],
+  "statut": "Nuancé",
+  "source": {
+   "organisme": "Cour des comptes",
+   "document": "Cour des comptes, « France Télévisions, exercices 2017-2024 » (S2025-1126-1), publié le 23/09/2025",
+   "page": "p. 98 (page PDF), tableau n° 38",
+   "url": "https://www.ccomptes.fr/sites/default/files/2025-09/20250923-S2025-1126-1-France-Televisions.pdf"
+  },
+  "faits": [
+   "Le SMPT (salaire moyen brut comptable par tête) passe de 68 580 € (2021) à 73 690 € (2024).",
+   "Comparaison de la Cour : culture 48 900 €, audiovisuel 66 700 €."
+  ],
+  "reponse_ftv": "FTV (13/05/2026) : le SMPT « intègre les éléments variables » (heures supplémentaires, nuit, indexation outre-mer, indemnités de départ) ; « Il ne s'agit donc en aucun cas d'un salaire contractuel moyen », qui est de « 61k€ annuels brut ». Ancienneté moyenne : 20,6 ans.",
+  "reserves": [
+   "Le SMPT inclut des éléments non récurrents : ne pas le lire comme un salaire contractuel.",
+   "Les deux chiffres (73 690 € et 61 k€) sont sourcés mais ne mesurent pas la même chose."
+  ],
+  "camp": [
+   "macroniste"
+  ],
+  "camp_pourquoi": [
+   "C1 – Salaire moyen par tête 2021-2024 : période intégralement sous la présidence Macron.",
+   "C2 – Financement public voté sous cet exécutif. C2 – La dirigeante de France Télévisions, Delphine Ernotte Cunci, a été nommée par le CSA le 23/04/2015, puis reconduite par le CSA le 22/07/2020 et par l'Arcom le 14/05/2025 (autorités indépendantes, sous deux exécutifs, Hollande puis Macron : cette nomination ne rattache donc pas la fiche à un camp).",
+   "C3/C4 – Cour des comptes ; réponse de FTV citée ; aucune lecture partisane."
+  ],
+  "camp_resume": "2021-2024 sous exécutif Macron ; Cour des comptes"
+ },
+ {
+  "id": "frais-mission-46m",
+  "titre": "Frais de mission : 46 M€ en 2024 (année des JO)",
+  "montant": "46 M€ (2024) ; 42,8 M€ en moyenne annuelle hors covid",
+  "date": "2025-09-23",
+  "tags": [
+   "gouvernance"
+  ],
+  "statut": "Confirmé",
+  "source": {
+   "organisme": "Cour des comptes",
+   "document": "Cour des comptes, « France Télévisions, exercices 2017-2024 » (S2025-1126-1), publié le 23/09/2025",
+   "page": "p. 75 (page PDF), §3.2.1.2.4",
+   "url": "https://www.ccomptes.fr/sites/default/files/2025-09/20250923-S2025-1126-1-France-Televisions.pdf"
+  },
+  "faits": [
+   "« Parmi les charges d'exploitation figurent les frais de mission (compte 625) […] pesant pour plus de 42,8 M€ en moyenne annuelle hors période de covid, avec un maximum de 46 M€ atteint en 2024, année des Jeux olympiques et paralympiques. »",
+   "Réponse commune Bercy/Comptes publics (04/09/2025) : « les frais de mission, dont le montant avait déjà été souligné par la Cour en 2016, ont continué de croître » (https://www.ccomptes.fr/sites/default/files/2025-09/20250923-S2025-1126-1-France-Televisions-rep-commune-MEFSIN-MCP.pdf)."
+  ],
+  "reponse_ftv": "Réponse spécifique de FTV sur les frais de mission : non retrouvée dans le document du 13/05/2026.",
+  "reserves": [
+   "Le pic 2024 est lié aux JO (couverture sportive) : la Cour le dit elle-même."
+  ],
+  "camp": [
+   "transverse"
+  ],
+  "camp_pourquoi": [
+   "C1 – Le maximum de 46 M€ est atteint en 2024 (exécutif Macron), mais la Cour rappelle que le montant « avait déjà été souligné par la Cour en 2016 » et « a continué de croître » (réponse Bercy/Comptes publics du 04/09/2025) : le constat traverse les exécutifs Hollande puis Macron.",
+   "C3/C4 – Aucun acteur partisan ; la critique est celle de la Cour, reprise dans la réponse du ministère."
+  ],
+  "camp_resume": "Constat de 2016 (Hollande) repris en 2024-2025 (Macron) : plusieurs exécutifs"
+ },
+ {
+  "id": "indemnites-depart-232m",
+  "titre": "Indemnités de départ : 232 M€ cumulés de 2015 à 2025",
+  "montant": "232 M€ (2015-2025) ; 22,5 M€ en 2025 ; 143 M€ pour les indemnités > 100 000 € (2017-2025)",
+  "date": "2026-05-05",
+  "tags": [
+   "salaires",
+   "gouvernance"
+  ],
+  "statut": "Confirmé (données FTV)",
+  "source": {
+   "organisme": "Assemblée nationale – commission d'enquête",
+   "document": "Commission d'enquête sur l'audiovisuel public, rapport de M. Charles Alloncle, 05/05/2026 (miroir citoyen non officiel, pages PDF ; texte officiel : https://www.assemblee-nationale.fr/dyn/17/rapports/ceaudio/l17b2698-t1_rapport-enquete)",
+   "page": "p. 389 (PDF)",
+   "url": "https://audiovisuel-public.com/le-rapport/chapitre/axe-iii-masse-salariale/"
+  },
+  "faits": [
+   "Le rapport (tableau fourni par FTV) : « le total annuel a oscillé entre 14,8 millions d'euros en 2020 et 29,4 millions d'euros en 2015, pour s'établir à 22,5 millions d'euros en 2025, soit un cumul égal à 232 millions d'euros sur la période. »",
+   "« Le montant des indemnités supérieurs 100 000 euros s'élève à 143 M€ entre 2017 et 2025, soit 62 % du montant total » ; FTV évalue à 141 le nombre d'indemnités supérieures à 100 000 € depuis 2015.",
+   "FTV rattache ces montants à « l'accord d'entreprise de 2013 en lien avec un critère d'ancienneté »."
+  ],
+  "reponse_ftv": "FTV (13/05/2026, rec. 60) : peut transmettre la ventilation au CGEFI et au Parlement. Dans ses réponses sur les résultats, FTV rattache les coûts de départs à la rupture conventionnelle collective 2018-2023 menée « avec l'accord de l'Etat » (opération qualifiée de non récurrente).",
+  "reserves": [
+   "Les 232 M€ incluent des indemnités légales, conventionnelles et transactionnelles (départs en retraite compris) : tout n'est pas « parachute ».",
+   "Aucune indemnité individuelle supérieure à 500 000 € n'a été retrouvée dans le rapport (voir page non vérifié)."
+  ],
+  "camp": [
+   "transverse"
+  ],
+  "camp_pourquoi": [
+   "C1 – Cumul 2015-2025 : exécutifs Hollande (2015-2017) puis Macron (2017-2025).",
+   "C2 – FTV rattache les montants à « l'accord d'entreprise de 2013 » (exécutif Hollande) et à la rupture conventionnelle collective 2018-2023 menée « avec l'accord de l'Etat » (exécutif Macron).",
+   "C3 – La critique vient d'une commission d'enquête de l'Assemblée nationale créée à l'initiative du groupe UDR (« formation politique alliée au RN », selon le rapport) : rapporteur C. Alloncle (UDR), président J. Patrier-Leitus (Horizons) ; 30 membres de tous les groupes. Ce n'est pas retenu comme camp de la fiche."
+  ],
+  "camp_resume": "2015-2025, accord de 2013 puis RCC 2018-2023 : plusieurs exécutifs"
+ },
+ {
+  "id": "hauts-salaires-31",
+  "titre": "31 salariés gagnent plus que le chef de l'État (rémunération « super brute »)",
+  "montant": "10,813 M€ bruts/an pour 31 salariés (vs 8,525 M€ au tarif du président, 275 000 € × 31)",
+  "date": "2026-05-05",
+  "tags": [
+   "salaires"
+  ],
+  "statut": "Nuancé",
+  "source": {
+   "organisme": "Assemblée nationale – commission d'enquête",
+   "document": "Commission d'enquête sur l'audiovisuel public, rapport de M. Charles Alloncle, 05/05/2026 (miroir citoyen non officiel, pages PDF ; texte officiel : https://www.assemblee-nationale.fr/dyn/17/rapports/ceaudio/l17b2698-t1_rapport-enquete)",
+   "page": "chapitre Axe III, pp. 380-407 (PDF)",
+   "url": "https://audiovisuel-public.com/le-rapport/chapitre/axe-iii-masse-salariale/"
+  },
+  "faits": [
+   "« France Télévisions ayant fourni à votre rapporteur, à sa demande, la liste des 10 % des salaires bruts les plus élevés de l'entreprise, votre rapporteur y a compté 31 salariés gagnant plus que le chef de l'État » (dont 17 directeurs au siège parisien, selon le rapport).",
+   "« La somme de la rémunération « super brute » de ces 31 salariés atteint 10,813 millions d'euros bruts par an, contre 8,525 millions d'euros si l'on multiplie par 31 la rémunération annuelle super brute du Président de la République (275 000 euros). »"
+  ],
+  "reponse_ftv": "FTV (13/05/2026) : les salaires > 100 k€ font l'objet d'avis du contrôleur d'État ; la liste des 10 plus hauts salaires est transmise chaque année au Parlement. Sur la citation de Mme Ernotte (« quelques figures d'antenne et directeurs ultramarins »), FTV précise qu'elle ne portait que sur les 10 plus hauts salaires, pas sur les 31, et que le rapport l'a tronquée.",
+  "reserves": [
+   "Ordre de grandeur de l'écart : 2,3 M€ par an (10,813 − 8,525), pour 31 personnes.",
+   "L'indexation outre-mer et les cachets d'antenne figurent dans l'assiette."
+  ],
+  "camp": [
+   "macroniste"
+  ],
+  "camp_pourquoi": [
+   "C1 – Liste des salaires obtenue en 2026 pour l'année en cours : situation sous la présidence Macron ; comparaison avec la rémunération du chef de l'État (275 000 € super brut).",
+   "C2 – Financement public sous cet exécutif. C2 – La dirigeante de France Télévisions, Delphine Ernotte Cunci, a été nommée par le CSA le 23/04/2015, puis reconduite par le CSA le 22/07/2020 et par l'Arcom le 14/05/2025 (autorités indépendantes, sous deux exécutifs, Hollande puis Macron : cette nomination ne rattache donc pas la fiche à un camp).",
+   "C3 – La critique vient d'une commission d'enquête de l'Assemblée nationale créée à l'initiative du groupe UDR (« formation politique alliée au RN », selon le rapport) : rapporteur C. Alloncle (UDR), président J. Patrier-Leitus (Horizons) ; 30 membres de tous les groupes. Ce n'est pas retenu comme camp de la fiche.",
+   "C4 – Réponse de FTV citée (avis du contrôleur d'État, liste transmise au Parlement)."
+  ],
+  "camp_resume": "Situation 2025-2026 sous exécutif Macron ; critique issue d'une commission pluraliste"
+ },
+ {
+  "id": "cannes-majestic",
+  "titre": "Festival de Cannes : ≈ 6 M€/an et suites au Majestic à 1 899 € la nuit (2024)",
+  "montant": "≈ 6 M€/an (rapport) ; 3,2 M€ net en 2025 (FTV) ; 1 899 €/nuit (2024)",
+  "date": "2026-05-05",
+  "tags": [
+   "gouvernance",
+   "conflits d'intérêts"
+  ],
+  "statut": "Nuancé",
+  "source": {
+   "organisme": "Assemblée nationale – commission d'enquête",
+   "document": "Commission d'enquête sur l'audiovisuel public, rapport de M. Charles Alloncle, 05/05/2026 (miroir citoyen non officiel, pages PDF ; texte officiel : https://www.assemblee-nationale.fr/dyn/17/rapports/ceaudio/l17b2698-t1_rapport-enquete)",
+   "page": "pp. 393-394 (PDF)",
+   "url": "https://audiovisuel-public.com/le-rapport/chapitre/axe-iii-masse-salariale/"
+  },
+  "faits": [
+   "Rapport : « La présence de France Télévisions au Festival de Cannes représente une dépense annuelle de l'ordre de 6 millions d'euros, en progression de 15 % sur les trois dernières années ».",
+   "Rapport : « en 2024, les nuitées réservées pour la présidente et le directeur général délégué au Majestic ont ainsi été facturées 1 899 euros par nuit ».",
+   "Une information judiciaire (abus de biens sociaux, recel, détournement de biens publics) est ouverte à Paris sur l'édition 2023 (20 Minutes/AFP, 11/02/2026 : https://www.20minutes.fr/arts-stars/medias/4200976-20260211-somme-extravagante-juge-interesse-frais-hotel-dirigeants-france-televisions-cannes). Facture 2023 : 112 123 € TTC, chambres à 1 599 € et 1 199 € (Liberta Press, 13/03/2026, source secondaire)."
+  ],
+  "reponse_ftv": "FTV (via La Lettre / audition n° 12) : hébergement obtenu par « barter » via un intermédiaire, sans argent public ; Mme Sitbon-Gomez : « À ma connaissance, pas un euro d'argent public n'a été dépensé pour ces frais d'hôtel à Cannes. » Selon FTV (AFP, 11-12/02/2026), le barter est une « pratique courante, légale et utilisée par tous les médias ». Coût net Cannes 2025 : 3,2 M€, en baisse de 700 k€ sur 2024 (FTV).",
+  "reserves": [
+   "Présomption d'innocence : l'information judiciaire n'est pas une condamnation.",
+   "Le « 1 700 €/nuit » souvent cité est le chiffre de 2023 (Marianne) ; le rapport donne 1 899 € pour 2024.",
+   "L'absence de décaissement (barter) est une affirmation de FTV non contredite par un document primaire lu ici ; le rapport relève que le barter n'est utilisé que « depuis 2022 »."
+  ],
+  "camp": [
+   "macroniste"
+  ],
+  "camp_pourquoi": [
+   "C1 – Éditions 2023 et 2024 du Festival ; information judiciaire ouverte en 2026 : période sous la présidence Macron.",
+   "C2 – Dépense de FTV financée par un budget public voté sous cet exécutif. C2 – La dirigeante de France Télévisions, Delphine Ernotte Cunci, a été nommée par le CSA le 23/04/2015, puis reconduite par le CSA le 22/07/2020 et par l'Arcom le 14/05/2025 (autorités indépendantes, sous deux exécutifs, Hollande puis Macron : cette nomination ne rattache donc pas la fiche à un camp).",
+   "C3 – La critique vient d'une commission d'enquête de l'Assemblée nationale créée à l'initiative du groupe UDR (« formation politique alliée au RN », selon le rapport) : rapporteur C. Alloncle (UDR), président J. Patrier-Leitus (Horizons) ; 30 membres de tous les groupes. Ce n'est pas retenu comme camp de la fiche.",
+   "C4 – Réponse de FTV citée (hébergement obtenu par « barter », sans argent public selon FTV)."
+  ],
+  "camp_resume": "2023-2024 sous exécutif Macron ; critique issue d'une commission pluraliste"
+ },
+ {
+  "id": "nopl-250m",
+  "titre": "« N'oubliez pas les paroles » : environ 250 M€ versés sur dix ans (2015-2025)",
+  "montant": "≈ 250 M€ sur 2015-2025 (≈ 25 M€/an)",
+  "date": "2026-05-05",
+  "tags": [
+   "production privée",
+   "conflits d'intérêts"
+  ],
+  "statut": "Nuancé",
+  "source": {
+   "organisme": "Assemblée nationale – commission d'enquête",
+   "document": "Commission d'enquête sur l'audiovisuel public, rapport de M. Charles Alloncle, 05/05/2026 (miroir citoyen non officiel, pages PDF ; texte officiel : https://www.assemblee-nationale.fr/dyn/17/rapports/ceaudio/l17b2698-t1_rapport-enquete)",
+   "page": "p. 407 (PDF)",
+   "url": "https://audiovisuel-public.com/le-rapport/chapitre/axe-iii-masse-salariale/"
+  },
+  "faits": [
+   "Rapport : « Sur dix ans, entre 2015 et 2025, France Télévisions aura ainsi versé environ 250 millions d'euros pour cette seule émission. »",
+   "Contrat : 75 M€ sur trois ans reconductible ; hausse de 20 % du coût unitaire par minute entre 2024-2025 et 2026-2027 alors que l'audience recule de 5 % sur deux ans et 10 % sur cinq ans (rapport p. 407).",
+   "Marge de l'émission : 25 % (rapport, Axe III) ; contrats pluriannuels renouvelés en 2021 et 2024 « sans qu'il y ait eu le moindre appel d'offres » (question d'A. Alloncle, audition n° 57, 01/04/2026)."
+  ],
+  "reponse_ftv": "FTV (13/05/2026) : « N'oubliez pas les paroles génère des recettes publicitaires significatives et sa diffusion est rentable », « sans peser sur les concours publics ». Productrice (Capital, 2026) : l'émission « génère environ 10% des recettes publicitaires de France Télévisions ».",
+  "reserves": [
+   "Le montant est un coût de production brut : les recettes publicitaires ne sont pas déduites dans le rapport.",
+   "« Sans appel d'offres » est la conséquence d'un régime d'exclusion légal (voir fiche marchés publics), pas une irrégularité établie."
+  ],
+  "camp": [
+   "transverse"
+  ],
+  "camp_pourquoi": [
+   "C1 – Versements « entre 2015 et 2025 » : exécutifs Hollande puis Macron ; contrats renouvelés en 2021 et 2024 (Macron) sur un dispositif engagé en 2015 (Hollande).",
+   "C3 – La critique vient d'une commission d'enquête de l'Assemblée nationale créée à l'initiative du groupe UDR (« formation politique alliée au RN », selon le rapport) : rapporteur C. Alloncle (UDR), président J. Patrier-Leitus (Horizons) ; 30 membres de tous les groupes. Ce n'est pas retenu comme camp de la fiche.",
+   "C4 – Réponse de FTV et de la productrice citées."
+  ],
+  "camp_resume": "2015-2025, contrats 2015/2021/2024 : plusieurs exécutifs"
+ },
+ {
+  "id": "mediawan-44-111",
+  "titre": "Mediawan : 44 M€ (2018) → 111 M€ (2024) de chiffre d'affaires avec France Télévisions",
+  "montant": "111 M€ (2024) ; +152 % depuis 2018",
+  "date": "2026-05-13",
+  "tags": [
+   "production privée",
+   "conflits d'intérêts"
+  ],
+  "statut": "Confirmé (chiffres FTV) / Nuancé (interprétation)",
+  "source": {
+   "organisme": "France Télévisions",
+   "document": "France Télévisions, Réponse au rapport de la commission d'enquête, 13/05/2026",
+   "page": "p. 75 (PDF)",
+   "url": "https://static.francetelevisions.fr/inline-images/20260513%20R%C3%A9ponse%20FTV%20Rapport%20CE%20v2.pdf"
+  },
+  "faits": [
+   "FTV : « entre 2018 et 2024, le chiffre d'affaires réalisé avec France Télévisions est passé de 44 M€ à 111 M€, soit une augmentation de 152 %, tandis que le nombre de sociétés du groupe contractant avec France Télévisions est passé de 13 à 28 ».",
+   "Banijay : 36 M€ → 87 M€ (3 → 14 sociétés).",
+   "Rapport Alloncle : marges observées supérieures aux marges des devis (« Ça commence aujourd'hui » 24 %, « N'oubliez pas les paroles » 25 %, « Chacun son Tour » 42 %) (Axe III, p. 403)."
+  ],
+  "reponse_ftv": "FTV : Mediawan et Banijay représentent « respectivement 11,6% et 11,4% du chiffre d'affaires réalisé par l'ensemble du secteur de la production avec France Télévisions », ce qui « n'est pas le fruit d'une décision délibérée de l'entreprise » ; les 29 sociétés Mediawan et 17 sociétés Banijay travaillaient « pour la plupart » déjà avec FTV avant leur rachat.",
+  "reserves": [
+   "Comparaison 2018/2024 à périmètre non constant (13 → 28 sociétés du groupe).",
+   "Les surfacturations reposent sur « les rares audits » consultés par le rapporteur : échantillon non quantifié."
+  ],
+  "camp": [
+   "macroniste"
+  ],
+  "camp_pourquoi": [
+   "C1 – Chiffre d'affaires de 2018 (44 M€) à 2024 (111 M€) : intégralement sous la présidence Macron.",
+   "C2 – Financement de FTV voté sous cet exécutif ; FTV : l'évolution « n'est pas le fruit d'une décision délibérée de l'entreprise ». C2 – La dirigeante de France Télévisions, Delphine Ernotte Cunci, a été nommée par le CSA le 23/04/2015, puis reconduite par le CSA le 22/07/2020 et par l'Arcom le 14/05/2025 (autorités indépendantes, sous deux exécutifs, Hollande puis Macron : cette nomination ne rattache donc pas la fiche à un camp).",
+   "C3 – Chiffres fournis par FTV elle-même ; la critique relève du rapport de la commission d'enquête (voir fiches associées)."
+  ],
+  "camp_resume": "2018-2024 sous exécutif Macron ; chiffres fournis par FTV"
+ },
+ {
+  "id": "salto-57-7m",
+  "titre": "Salto : un échec à 57,7 M€ (France Télévisions, TF1, M6)",
+  "montant": "57,7 M€",
+  "date": "2026-05-05",
+  "tags": [
+   "gouvernance"
+  ],
+  "statut": "Nuancé",
+  "source": {
+   "organisme": "Assemblée nationale – commission d'enquête",
+   "document": "Commission d'enquête sur l'audiovisuel public, rapport de M. Charles Alloncle, 05/05/2026 (miroir citoyen non officiel, pages PDF ; texte officiel : https://www.assemblee-nationale.fr/dyn/17/rapports/ceaudio/l17b2698-t1_rapport-enquete)",
+   "page": "Axe III, encadré « La plateforme Salto : un échec commercial et stratégique à 57,7 millions d'euros » (pp. 380-407)",
+   "url": "https://audiovisuel-public.com/le-rapport/chapitre/axe-iii-masse-salariale/"
+  },
+  "faits": [
+   "Intertitre du rapport : « La plateforme Salto : un échec commercial et stratégique à 57,7 millions d'euros ». Salto, lancée conjointement par FTV, TF1 et M6 en octobre 2020, a été arrêtée le 27/03/2023."
+  ],
+  "reponse_ftv": "FTV (13/05/2026) : l'arrêt de Salto est une opération « non récurrente » ; l'issue « était liée à une conjonction de facteurs exogènes » (refus par l'Autorité de la concurrence de la fusion TF1/M6, retrait de TF1 puis de M6) ; FTV dit avoir négocié « une sortie intéressante d'un point de vue financier ».",
+  "reserves": [
+   "Le montant de 57,7 M€ n'a pas été recoupé avec les comptes FTV dans cette version (V1).",
+   "Salto était un projet commun à trois groupes : la part supportée par FTV n'est pas isolée dans l'extrait lu."
+  ],
+  "camp": [
+   "macroniste"
+  ],
+  "camp_pourquoi": [
+   "C1 – Salto : lancée en octobre 2020, arrêtée le 27/03/2023 : intégralement sous la présidence Macron.",
+   "C2 – FTV attribue l'issue à des facteurs exogènes (refus par l'Autorité de la concurrence de la fusion TF1/M6, retrait de TF1 puis de M6). C2 – La dirigeante de France Télévisions, Delphine Ernotte Cunci, a été nommée par le CSA le 23/04/2015, puis reconduite par le CSA le 22/07/2020 et par l'Arcom le 14/05/2025 (autorités indépendantes, sous deux exécutifs, Hollande puis Macron : cette nomination ne rattache donc pas la fiche à un camp).",
+   "C3 – La critique vient d'une commission d'enquête de l'Assemblée nationale créée à l'initiative du groupe UDR (« formation politique alliée au RN », selon le rapport) : rapporteur C. Alloncle (UDR), président J. Patrier-Leitus (Horizons) ; 30 membres de tous les groupes. Ce n'est pas retenu comme camp de la fiche."
+  ],
+  "camp_resume": "2020-2023 sous exécutif Macron ; critique issue d'une commission pluraliste"
+ },
+ {
+  "id": "marches-publics-exclusion",
+  "titre": "Marchés publics et audiovisuel public : les achats de programmes ne sont pas soumis à la mise en concurrence de droit commun",
+  "montant": "864 M€ d'achats de programmes externes (2024, rapport p. 264)",
+  "date": "2026-05-13",
+  "tags": [
+   "gouvernance",
+   "production privée"
+  ],
+  "statut": "Nuancé",
+  "source": {
+   "organisme": "Code de la commande publique (reproduction non officielle ; le texte Légifrance de L2513-1 n'a pas pu être ouvert)",
+   "document": "Article L2513-1 (créé par ordonnance n° 2018-1074 du 26/11/2018, en vigueur depuis le 01/04/2019) ; directive 2014/24/UE art. 10 b et considérant 23",
+   "page": "—",
+   "url": "https://www.code-commande-publique.com/exclusions-autres-marches/marches-publics-conclus-par-un-pouvoir-adjudicateur-exclusions/"
+  },
+  "faits": [
+   "Correction : le fondement est l'art. L2513-1 du code de la commande publique (et non L2512-5) ; le « code des marchés publics » est abrogé.",
+   "Texte (L2513-1, lu sur une reproduction non officielle) : « Sont soumis aux règles définies au titre II les marchés publics de services conclus par un pouvoir adjudicateur qui : […] 2° Soit ont pour objet l'achat, le développement, la production ou la coproduction de programmes destinés à la diffusion et qui sont attribués par des éditeurs de services de communication audiovisuelle ou radiophonique. »",
+   "Ce n'est pas une exception « œuvre artistique » : c'est l'exclusion des marchés de programmes des éditeurs de médias (directive 2014/24/UE, considérant 23 : « considérations revêtant une importance culturelle et sociale »).",
+   "Rapport Alloncle p. 267 : « il ne paraît pas pertinent d'exclure les contrats d'achats de programmes des règles de droit commun pour ce qui concerne la procédure de passation du marché (publicité, mise en concurrence préalable) » ; recommandation n° 21.",
+   "Rapport p. 266 : les achats de programmes sont exclus « du fait de l'importance, dans les choix, des critères artistiques et éditoriaux qui laisse une large marge d'appréciation au décideur » (Cour des comptes, octobre 2016, p. 94, cité)."
+  ],
+  "reponse_ftv": "FTV (13/05/2026, rec. 21) : l'inclusion dans la commande publique « serait un non-sens, porterait une atteinte majeure à la liberté éditoriale […] et contreviendrait au droit de l'Union européenne » ; « Cette spécificité ne signifie pas absence de concurrence » (appels à projets, appels à concepts) ; plateforme de dépôt des projets annoncée.",
+  "reserves": [
+   "Le contenu des articles L2521-1 à L2521-5 (règles du Titre II) n'a pas été lu : ne pas écrire que ces marchés échappent à toute règle.",
+   "Les pages du rapport sont celles du miroir citoyen (FTV cite « p. 273 » pour un passage que le miroir place p. 267).",
+   "FTV affirme que « contreviendrait au droit de l'Union européenne » : la directive 2014/24 (art. 10 b) autorise l'exclusion sans l'imposer.",
+   "Contrats de « C dans l'air », « C à vous », « Envoyé spécial » (durée, reconduction) : non vérifiés. Détail dans data/fiche_marches_publics.json."
+  ],
+  "detail": "fiche_marches_publics.json",
+  "camp": [
+   "transverse"
+  ],
+  "camp_pourquoi": [
+   "C1 – L'exclusion découle de la directive européenne 2014/24/UE ; l'article L2513-1 a été créé par l'ordonnance n° 2018-1074 du 26/11/2018 (en vigueur le 01/04/2019, exécutif Macron) : le texte traverse plusieurs exécutifs et l'échelon européen.",
+   "C3 – Deux lectures coexistent : le rapport de la commission d'enquête (rapporteur UDR) recommande d'inclure ces achats dans les règles de mise en concurrence (recommandation n° 21) ; FTV répond que ce serait « un non-sens […] et contreviendrait au droit de l'Union européenne »."
+  ],
+  "camp_resume": "Directive 2014 + ordonnance 2018 ; deux lectures coexistent (rapport / FTV)"
+ },
+ {
+  "id": "sm-appel-2024",
+  "titre": "Syndicat de la magistrature : appel à « se mobiliser contre l'accession au pouvoir de l'extrême droite » (11/06/2024)",
+  "montant": "non chiffré",
+  "date": "2024-06-11",
+  "tags": [
+   "Syndicats de fonctionnaires et prises de position politiques",
+   "Pluralisme et impartialité des institutions"
+  ],
+  "statut": "Confirmé (texte) / Nuancé (interprétation)",
+  "source": {
+   "organisme": "Syndicat de la magistrature",
+   "document": "Communiqué du 11/06/2024",
+   "page": "1 page",
+   "url": "https://www.syndicat-magistrature.fr/documents/173/cp-dissolution-11-juin-2024.pdf"
+  },
+  "faits": [
+   "« Le Syndicat de la magistrature appelle l'ensemble des magistrates et magistrats […] à se mobiliser contre l'accession au pouvoir de l'extrême droite. »",
+   "Le texte ne contient pas « faire barrage » et ne cite pas explicitement les législatives.",
+   "Élections à la commission d'avancement 2026 (ministère de la Justice, 13/02/2026) : USM 60,99 %, SM 25,03 %, UM 12,51 %."
+  ],
+  "reponse_ftv": "Réponse du SM : non retrouvée. Cadre : avis du CSM du 13/12/2023, ordonnance 58-1270 art. 10 et 10-1.",
+  "reserves": [
+   "Fiche sans montant d'argent public : elle relève de la rubrique « Institutions financées sur fonds publics hors de leur rôle neutre ».",
+   "Aucune saisine du CSM ni procédure disciplinaire retrouvée.",
+   "Détail complet : data/fiche_sm.json."
+  ],
+  "detail": "fiche_sm.json",
+  "camp": [
+   "transverse"
+  ],
+  "camp_pourquoi": [
+   "C1 – Communiqué du 11/06/2024, deux jours après la dissolution de l'Assemblée nationale décidée par le président Macron (09/06/2024).",
+   "C3 – Auteur : le Syndicat de la magistrature (syndicat professionnel, pas un parti). Le texte appelle à « se mobiliser contre l'accession au pouvoir de l'extrême droite » sans nommer de parti : l'identification de cette formule à un parti (RN) relève d'une interprétation, pas du texte.",
+   "Faute de critère factuel sûr : transverse (doute explicité)."
+  ],
+  "camp_resume": "Syndicat (non partisan) ; le texte vise « l'extrême droite » sans nommer de parti : doute"
+ },
+ {
+  "id": "le-grand-ecart",
+  "titre": "Le grand écart : dérives documentées à l'échelle de la dette, du déficit et de l'effort d'économies",
+  "montant": "non chiffré (mise à l'échelle)",
+  "date": "2026-10-25",
+  "tags": [
+   "gouvernance",
+   "Privatisation des gains / socialisation des pertes"
+  ],
+  "statut": "Nuancé",
+  "source": {
+   "organisme": "Insee",
+   "document": "Informations rapides n° 239 (29/09/2026) et n° 78 (27/03/2026)",
+   "page": "—",
+   "url": "https://www.insee.fr/fr/statistiques/9053525"
+  },
+  "faits": [
+   "Dette publique fin T2 2026 : 3 595,5 Md€ = 119,0 % du PIB (Insee, 29/09/2026).",
+   "Déficit 2025 : 152,5 Md€ = 5,1 % du PIB (Insee, 27/03/2026).",
+   "PLF 2027 : effort de 54 Md€ dont 43 Md€ dans les textes financiers (dossier de presse, octobre 2026).",
+   "14,2 M€ de CSE = 0,0093 % du déficit 2025 ; 111 M€ Mediawan = 0,073 % ; 46 M€ de frais de mission = 0,030 %."
+  ],
+  "reponse_ftv": "FTV conteste la comparabilité de ces lignes (obligations conventionnelles, droit du travail, production). Voir grand-ecart.html.",
+  "reserves": [
+   "Les montants ne s'additionnent pas (natures et périmètres différents).",
+   "Les citations « la France est ruinée » / « plus d'argent » n'ont pas de source datée retrouvée : non vérifié."
+  ],
+  "detail": "fiche_grand_ecart.json",
+  "camp": [
+   "transverse"
+  ],
+  "camp_pourquoi": [
+   "C1 – La dette (3 595,5 Md€, T2 2026) et le déficit 2025 résultent de plusieurs décennies et de plusieurs exécutifs ; le PLF 2027 relève de l'exécutif actuel.",
+   "C3/C4 – Sources Insee et dossier de presse ; FTV conteste la comparabilité (citée) ; aucun acteur partisan."
+  ],
+  "camp_resume": "Dette cumulée sur plusieurs exécutifs ; sources Insee"
+ },
+ {
+  "id": "livre-alloncle",
+  "titre": "Livre : Charles Alloncle, « Je jure de dire toute la vérité » (Fayard, 30/09/2026)",
+  "montant": "non chiffré",
+  "date": "2026-09-30",
+  "tags": [
+   "livres",
+   "gouvernance",
+   "production privée"
+  ],
+  "statut": "Nuancé",
+  "source": {
+   "organisme": "Éditions Fayard",
+   "document": "Fiche livre : 320 p., EAN 9782213736440, 20,90 € (papier), 14,99 € (numérique, EAN 9782213737225)",
+   "page": "—",
+   "url": "https://www.fayard.fr/livre/je-jure-de-dire-toute-la-verite-9782213736440/"
+  },
+  "faits": [
+   "Date corrigée : le livre est paru le 30/09/2026 (et non 2025). Récit des coulisses de la commission d'enquête, classé « Documents, témoignages ».",
+   "Texte de présentation (Fayard) : « J'avais été nommé pour contrôler un service public ; j'avais fini par réveiller tout un système que mes questions dérangeaient. »",
+   "Télérama (03/10/2026) : le livre « ne recélait aucune véritable révélation ». L'Obs (02/10/2026) : il vise surtout J. Patrier-Leitus et X. Niel (article tronqué, abonnés).",
+   "Passages cités par la presse partisane (Médias-Presse.info) : accusation de parjure contre D. Ernotte (cabinet externe de « briefing »), signalements art. 40 annoncés (CNews, 30/09/2026)."
+  ],
+  "these_auteur": "Un « système » de connivence entre dirigeants, producteurs et institutions protège les dépenses de l'audiovisuel public ; le rapport aurait failli être enterré (adopté à une voix près, selon l'auteur).",
+  "reponse_ftv": "FTV/Radio France : aucune réponse au livre retrouvée. L'auteur dénonce un « boycott » (message X du 12/10/2026, CNews/Le Figaro TV Magazine).",
+  "reserves": [
+   "Le texte du livre n'a pas été lu : seules des recensions et extraits de presse l'ont été.",
+   "Contrôle des affirmations du message X du 12/10/2026 : voir la page Livres."
+  ],
+  "camp": [
+   "transverse"
+  ],
+  "camp_pourquoi": [
+   "C3 – Auteur : Charles Alloncle, député UDR, rapporteur de la commission d'enquête ; l'UDR est décrite comme « formation politique alliée au RN » dans le rapport de la commission : formation absente des cinq valeurs, et distincte du RN.",
+   "C4 – Selon L'Obs (02/10/2026), le livre vise surtout J. Patrier-Leitus (Horizons, président de la commission) et X. Niel ; thèse d'un « système » de connivence (thèse de l'auteur, non un fait).",
+   "Doute : transverse."
+  ],
+  "camp_resume": "Auteur UDR (alliée au RN), cible mixte : hors des 5 valeurs, doute"
+ },
+ {
+  "id": "livre-knafo",
+  "titre": "Livre : Sarah Knafo, « Le Casse du siècle » (Fayard, 02/09/2026)",
+  "montant": "non chiffré (thèse : 940 500 € prélevés sur une carrière)",
+  "date": "2026-09-02",
+  "tags": [
+   "livres",
+   "Privatisation des gains / socialisation des pertes"
+  ],
+  "statut": "Nuancé",
+  "source": {
+   "organisme": "Éditions Fayard",
+   "document": "Fiche livre : 286 p., EAN 9782213733135, 19,90 €",
+   "page": "—",
+   "url": "https://www.fayard.fr/livre/le-casse-du-siecle-9782213733135/"
+  },
+  "faits": [
+   "Date : 02/09/2026 (JDD, Le Parisien/AFP) ; 63 087 exemplaires vendus selon l'éditeur à la date du 06/09 (Le Parisien/AFP, 08/09/2026).",
+   "Preuves publiées par l'autrice : https://sarahknafo.fr/preuves (109 « preuves » numérotées). Page 24 du livre (preuves) : 22 000 × 42,75 = 940 500 € (écart de 1 843 €/mois entre coût employeur 3 922 € et net 2 079 €).",
+   "franceinfo « Vrai ou faux » (08/09/2026) a examiné les principaux chiffres du livre ; la fiche de paie est celle d'un salarié fictif (« Nicolas Durand »)."
+  ],
+  "these_auteur": "L'État organise un « casse légal » ; 130 Md€ d'économies annuelles ; privatisation de l'audiovisuel public ; suppression de l'Arcom.",
+  "reponse_ftv": "Sans objet (franceinfo, qui vérifie le livre, appartient au groupe France Télévisions : conflit d'intérêts à signaler).",
+  "reserves": [
+   "Le chiffre de 63 000 exemplaires est une déclaration de l'éditeur ; GfK 208 000 au 27/09 (source secondaire) et Edistat 265 714 en six semaines (ActuaLitté) sont des mesures ultérieures.",
+   "Pages du livre non vérifiées (le texte intégral n'a pas été lu)."
+  ],
+  "camp": [
+   "transverse"
+  ],
+  "camp_pourquoi": [
+   "C3 – Autrice : Sarah Knafo, députée européenne Reconquête : parti absent des cinq valeurs.",
+   "C4 – Thèse : l'État organiserait un « casse légal » (130 Md€ d'économies annuelles) ; franceinfo « Vrai ou faux » (08/09/2026) vérifie les chiffres (franceinfo appartient au groupe France Télévisions, partie prenante).",
+   "Doute : transverse."
+  ],
+  "camp_resume": "Autrice Reconquête (hors des 5 valeurs) ; critique de l'État en général"
+ },
+ {
+  "id": "livre-marleix",
+  "titre": "Livres : Olivier Marleix, « Les Liquidateurs » (2021) et « Dissolution française » (2025)",
+  "montant": "non chiffré",
+  "date": "2021-02-04",
+  "tags": [
+   "livres",
+   "Privatisation des gains / socialisation des pertes",
+   "conflits d'intérêts"
+  ],
+  "statut": "Nuancé",
+  "source": {
+   "organisme": "Assemblée nationale",
+   "document": "Rapport n° 897 rectifié de la commission d'enquête sur la politique industrielle (Alstom), 19/04/2018, avant-propos du président O. Marleix",
+   "page": "avant-propos",
+   "url": "https://www.assemblee-nationale.fr/15/pdf/rap-enq/r0897-tI.pdf"
+  },
+  "faits": [
+   "Orthographe : Marleix. « Les Liquidateurs », Robert Laffont, 04/02/2021, 252 p., EAN 9782221251874. « Dissolution française », Robert Laffont, 13/11/2025, 288 p., EAN 9782221283783, préface de Michel Barnier.",
+   "Recoupement avec le rapport officiel (fiche Alstom) : la formule « cécité, imprévision et entre soi » et le chiffre de 299 000 € (étude AT Kearney) figurent dans l'avant-propos signé par O. Marleix, président ; l'amende américaine : « près d'1 milliard $ (finalement prononcée à 772 millions $) » ; offre de GE : 12,35 Md€.",
+   "Le rapporteur G. Kasbarian conclut différemment dans la partie rapporteur : « L'État a donc joué son rôle en utilisant les leviers à sa disposition »."
+  ],
+  "these_auteur": "Une élite aurait « liquidé » des fleurons industriels (quatrième de couverture de l'éditeur) ; un « pacte de corruption » (saisine du PNF selon Breizh-info, source secondaire).",
+  "reponse_ftv": "Sans objet.",
+  "reserves": [
+   "Le prix de cession effectif d'Alstom Énergie et les décisions de justice postérieures à 2018 n'ont pas été recoupés.",
+   "Extraits de « Dissolution française » lus uniquement sur un blog : non vérifiés. Texte des livres non lu."
+  ],
+  "camp": [
+   "droite/LR",
+   "macroniste",
+   "transverse"
+  ],
+  "camp_pourquoi": [
+   "C3 – Auteur : Olivier Marleix, député LR, président de la commission d'enquête Alstom (2018) ; le rapporteur Guillaume Kasbarian est alors député LREM (macroniste).",
+   "C4 – Deux lectures dans le même rapport : « l'État a failli à préserver les intérêts nationaux » (Marleix) et « L'État a donc joué son rôle » (Kasbarian) : transverse.",
+   "C1 – Faits de 2014 (exécutif Hollande), rapport de 2018 (exécutif Macron)."
+  ],
+  "camp_resume": "Marleix (LR) et rapporteur Kasbarian (LREM) : deux lectures"
+ },
+ {
+  "id": "livre-jovanovic-2008",
+  "titre": "Livre : Pierre Jovanovic, « 2008 » (Le Jardin des Livres, 13/06/2025)",
+  "montant": "non chiffré",
+  "date": "2025-06-13",
+  "tags": [
+   "livres",
+   "Privatisation des gains / socialisation des pertes"
+  ],
+  "statut": "Nuancé",
+  "source": {
+   "organisme": "Librairie Gallimard Paris (référencement éditeur)",
+   "document": "Fiche livre : « 2008 », Le Jardin des Livres, 13/06/2025, ISBN 9782914569873",
+   "page": "—",
+   "url": "https://www.librairie-gallimard.com/livre/9782914569873-2008-pierre-jovanovic/"
+  },
+  "faits": [
+   "Titre, éditeur, date : confirmés (libraires Gallimard et Goulard).",
+   "Quatrième de couverture : « Les gouvernements n'ont pas eu le choix : ils ont volé l'argent des impôts, l'argent du peuple, pour sauver les banques. »",
+   "Recoupement avec les chiffres officiels : plan de soutien aux banques 2008-2009 (19,75 Md€ de fonds propres, 77 Md€ de prêts garantis) : bilan de +2,7 Md€ pour l'État selon le ministère (05/07/2011) ; en revanche Dexia : coût direct de 6,6 Md€ pour les finances publiques françaises (Cour des comptes, 2013). Voir les fiches « banques-2008-2009-bilan » et « dexia-cour-6-6-md ».",
+   "Autres titres : « Notre-Dame de l'Apocalypse » (03/10/2008, ISBN 9782914569996) et « 777 » (2009, ISBN 9782914569880) ne portent pas sur l'argent public français."
+  ],
+  "these_auteur": "Les gouvernements auraient été contraints par un « chantage » des banques de les sauver avec l'argent des contribuables ; les pertes auraient été socialisées et les profits restés privés (présentation de l'éditeur/librairies).",
+  "reponse_ftv": "Sans objet.",
+  "reserves": [
+   "Pour la France, les chiffres officiels ne confirment pas une perte nette pour l'État sur le plan SFEF/SPPE (bilan positif selon le ministère), mais confirment un coût public sur Dexia ; la thèse est donc partiellement étayée, selon le cas.",
+   "Les sauvetages à l'étranger (États-Unis, etc.) n'ont pas été examinés ; le texte du livre n'a pas été lu, donc les chiffres propres au livre ne sont pas vérifiés."
+  ],
+  "camp": [
+   "transverse"
+  ],
+  "camp_pourquoi": [
+   "C1 – Plan bancaire 2008-2009 (exécutif Sarkozy-Fillon) et Dexia (2008-2012, Sarkozy puis Hollande) : plusieurs exécutifs.",
+   "C3 – Auteur : Pierre Jovanovic ; aucune appartenance partisane retrouvée dans les sources lues ; sa thèse vise « les gouvernements » en général.",
+   "Pas de critère de camp unique : transverse."
+  ],
+  "camp_resume": "2008-2012 sous Sarkozy puis Hollande ; thèse visant « les gouvernements »"
+ },
+ {
+  "id": "cgt-delahousse-20h-2026-10-18",
+  "titre": "« Au cœur des violences » (20 Heures de France 2, 18/10/2026) : critiques syndicales, et reconnaissance d'un manque de contextualisation par la direction de l'information",
+  "montant": "non chiffré",
+  "date": "2026-10-20",
+  "tags": [
+   "Institutions financées sur fonds publics hors de leur rôle neutre",
+   "Pluralisme et impartialité des institutions",
+   "pluralisme"
+  ],
+  "statut": "Nuancé",
+  "source": {
+   "organisme": "CGT France Télévisions (communiqué) ; médiateur de France Télévisions (billet franceinfo.fr)",
+   "document": "CGT FTV, « Sous les pavés, la propagande ! », Paris, 20/10/2026 ; P. Doucet-Bon, « Le groupe France Télévisions a-t-il accordé trop de place aux violences des 17 et 18 octobre ? », 20/10/2026",
+   "page": "communiqué : 1 page PDF",
+   "url": "https://www.cgtftv.fr/images/communiques/261020g.pdf"
+  },
+  "faits": [
+   "Objet : reportage d'environ douze minutes « Au cœur des violences », diffusé en fin du 20 Heures de France 2 du 18/10/2026, presque sans commentaire, sur les violences de la veille (journée nationale du 17/10 contre la vie chère). Durée « douze minutes » : rapportée par la CGT, la SDJ et l'AFP (Télérama, 21/10/2026).",
+   "CGT FTV (20/10/2026), citations exactes : « Un clip de propagande intitulé « Au cœur des violences », qui décrédibilise les manifestants du 17 octobre. » ; « Un mouvement social d'ampleur nationale réduit à un message de haine sans filtre. » ; « Le 20h fait la démonstration de sa fascination pour la violence, une obsession. 12 minutes d'images de casse jusqu'à la nausée » ; « Le ministère de l'Intérieur en a rêvé, le 20h de Laurent Delahousse l'a fait ! »",
+   "CGT, sur la séquence Mélenchon : le commentaire annonce « A quelques mètres de là, dans une ambiance bon enfant […] Jean-Luc Mélenchon analyse la situation » ; la CGT estime qu'il répondait à une question sur les revendications : « Un contre-sens évident, assumé par l'autrice du reportage et sa rédaction en chef. Un procédé grossier et malhonnête qui fait honte à la profession ».",
+   "CGT : « Le 20h week-end ne représente en aucun cas l'opinion de l'ensemble des journalistes de France Télévisions. Seule une fraction bâtit ce narratif nauséabond. » ; « La CGT se désolidarise complètement de ce JT de désinformation, porte-parole du ministre de l'Intérieur. Une télé de préfecture. » ; « Nous attendons des réponses claires du directeur de l'information pour savoir quelles suites il compte donner à ce crash éditorial. Pour la CGT, toute l'équipe du 20h du 18 octobre a failli et doit démissionner. »",
+   "CFDT (tract « Tout feu, tout flamme », cité par Anadolu et TVmag, 20-21/10/2026) : « une ligne rouge déontologique » ; « moins de deux minutes ont été consacrées aux revendications lycéennes et aux plus de 600.000 manifestants », « selon nos comptes » (48 minutes de journal hors allocution présidentielle selon TVmag) ; « Soit le montage est mal foutu, soit il est orienté. Dans les deux cas, c'est très grave. » La CFDT ne demande pas de démissions et vise « les choix éditoriaux, les angles des sujets, les « commandes » », pas les équipes de reportage.",
+   "SDJ (président Valéry Lerouge, à Télérama, 21/10/2026) : « dérapage, total et non contrôlé », « ovni ».",
+   "Réponse de la direction de l'information (billet du médiateur Pascal Doucet-Bon, franceinfo.fr, 20/10/2026 ; cité par l'AFP/Télérama, La Provence, 20 Minutes) : Philippe Corbé : « Nous aurions dû être plus précis dans le montage, la contextualisation et le commentaire pour qu'il n'y ait pas de confusion » ; « Comme nous le faisons régulièrement dans l'offre d'information après 20h40, nous avons proposé un reportage long format avec une écriture différente, produit par les magazines ; nous aurions dû mieux le distinguer du 20 Heures » ; « Laurent Delahousse a bien précisé que c'était un document en immersion, mais nous aurions dû être plus lisibles dans le bandeau […] et donner davantage d'informations contextuelles dans le montage et le commentaire ». Le médiateur s'interroge : « À l'heure où les réseaux sociaux diffusent souvent des images sans suffisamment de contexte, le JT doit-il faire de même ? »",
+   "Le billet du médiateur cite aussi d'autres séquences des 20 Heures des 17 et 18/10 (« vrais cortèges », rappel d'un rassemblement de « 550000 personnes ») pour montrer que la rédaction a contextualisé ailleurs.",
+   "Le Dauphiné (22/10/2026) : le présentateur n'avait pas pris la parole depuis le début de la polémique."
+  ],
+  "these_auteur": "CGT : le 20h serait une « télé de préfecture », relai du ministère de l'Intérieur. Ces qualificatifs sont des positions syndicales, non des faits établis ; la direction ne les reprend pas (elle reconnaît un défaut de contextualisation et de signalétique).",
+  "reponse_ftv": "Oui : billet du médiateur du 20/10/2026 (voir faits). La direction reconnaît un manque de contextualisation, pas une intention. Le mot « dérapage » du titre d'AFP/La Provence est celui de l'agence, pas une citation de Philippe Corbé.",
+  "reserves": [
+   "Pas de montant : fiche sur le pluralisme et la neutralité d'un service public financé sur fonds publics (statut Nuancé : les faits de diffusion et la réponse de la direction sont établis ; la qualification de « propagande » est une opinion syndicale).",
+   "L'enregistrement du reportage n'a pas été visionné par l'Observatoire.",
+   "Non vérifié : l'affirmation selon laquelle le sujet aurait remplacé au dernier moment une interview d'Angèle (une seule source secondaire, Melty).",
+   "Non retrouvé dans les sources lues : la formule « images brutes = jeu de l'extrême droite » (voir page Non vérifié).",
+   "Sources lues pour cette fiche : snjcgt.fr (20/10), PDF CGT, Voici (21/10), TVmag (21/10), Anadolu (20/10), La Provence/AFP (21/10), Télérama (21/10), 20 Minutes (20/10), Le Dauphiné (22/10), extrait du billet franceinfo.fr."
+  ],
+  "liens": [
+   "https://www.snjcgt.fr/2026/10/20/20-heures-de-france-2-du-18-octobre-2026-sous-les-paves-la-propagande/",
+   "https://www.franceinfo.fr/une-information-transparente-franceinfo/transparence-france-televisions-a-t-elle-accorde-trop-de-place-aux-violences-des-17-et-18-octobre_8243959.html",
+   "https://www.telerama.fr/television/france-televisions-reconnait-un-manque-de-contextualisation-dans-un-reportage-sur-les-violences-urbaines-7033468.php",
+   "https://www.laprovence.com/article/societe/1249792519128114/violences-du-17-octobre-la-direction-de-france-televisions-admet-un-derapage-apres-un-reportage-polemique-de-france-2",
+   "https://www.tvmag.info/france-2-a-franchi-un-cap-les-syndicats-denoncent-le-traitement-des-violences-du-17-octobre-dans-le-20-heures/",
+   "https://www.aa.com.tr/fr/france/france-t%C3%A9l%C3%A9visions-la-cgt-et-la-cfdt-d%C3%A9noncent-le-traitement-par-france-2-des-manifestations-lyc%C3%A9ennes-et-du-17-octobre/4095132",
+   "https://www.ledauphine.com/social/2026/10/22/violences-du-17-octobre-la-cgt-demande-la-demission-de-laurent-delahousse-et-son-equipe",
+   "https://www.voici.fr/television/laurent-delahousse-dans-la-tourmente-les-syndicats-de-france-televisions-reclament-le-depart-de-toute-l-equipe-du-20-heures-830560"
+  ],
+  "camp": [
+   "transverse"
+  ],
+  "camp_pourquoi": [
+   "C1 – Diffusion du 18/10/2026, sous la présidence Macron ; FTV est financée sur fonds publics. C2 – La dirigeante de France Télévisions, Delphine Ernotte Cunci, a été nommée par le CSA le 23/04/2015, puis reconduite par le CSA le 22/07/2020 et par l'Arcom le 14/05/2025 (autorités indépendantes, sous deux exécutifs, Hollande puis Macron : cette nomination ne rattache donc pas la fiche à un camp).",
+   "C3 – Critiques de syndicats professionnels (CGT, CFDT) et de la SDJ, pas de partis ; aucun parti n'est auteur de la critique dans les sources lues. La CGT formule une lecture politique citée (« Le ministère de l'Intérieur en a rêvé », « Une télé de préfecture ») : position syndicale, non un fait établi.",
+   "C4 – La direction de l'information reconnaît un manque de contextualisation, sans reprendre ces qualificatifs. Doute : transverse."
+  ],
+  "camp_resume": "Critiques syndicales, aucune critique partisane ; lecture CGT citée, direction reconnaît un défaut"
+ },
+ {
+  "id": "tuto-gaz-lacrymogene-france3",
+  "titre": "Vidéo « Gaz lacrymogène : comment s'en protéger ? » (France 3, 12/10/2026) : critiques d'une partie de la presse et de la classe politique, menaces contre le journaliste, silence reproché à la direction",
+  "montant": "non chiffré",
+  "date": "2026-10-13",
+  "tags": [
+   "Institutions financées sur fonds publics hors de leur rôle neutre",
+   "Pluralisme et impartialité des institutions",
+   "pluralisme"
+  ],
+  "statut": "Nuancé",
+  "source": {
+   "organisme": "Valeurs actuelles ; Le JDD ; SNJ France Télévisions ; CGT FTV",
+   "document": "Valeurs actuelles, 13/10/2026 (A. Bertolini) ; Le JDD, 14/10/2026 (L. Dugast) ; SNJ FTV, 15/10/2026 ; CGT FTV, 19/10/2026",
+   "page": "—",
+   "url": "https://www.valeursactuelles.com/societe/gaz-lacrymogene-comment-sen-proteger-france-televisions-livre-un-tutoriel-pour-aider-les-manifestants-a-faire-face-aux-forces-de-lordre"
+  },
+  "faits": [
+   "Le 12/10/2026, en plein mouvement de blocus lycéens, un journaliste de France 3 publie sur les réseaux sociaux une vidéo sur les gaz lacrymogènes. Attribution à vérifier : Valeurs actuelles et Le JDD parlent de « France 3 Alsace » ; le SNJ et la CGT parlent d'un « journaliste de France 3 Nancy » (Lorraine). Non réconcilié (voir réserves).",
+   "Contenu (cité par Valeurs actuelles et Le JDD) : « Pour éviter ce genre de mésaventure, quelques objets sont indispensables » ; lunettes étanches « type masque de ski, masque de plongée ou masque de piscine, afin d'éviter le contact direct du gaz avec les yeux » ; retirer les lentilles ; rincer à l'eau ou au sérum physiologique ; « Seul un masque FFP2 ou FFP3 de ce type est efficace » ; un vêtement épais est possible mais d'une efficacité « très aléatoire ».",
+   "Critique (député RN Matthieu Marchio, sur X, cité par Le JDD le 14/10/2026) : « Voilà l'état de la France : France 3 Alsace, financée par les contribuables, donne des conseils pour se protéger lors des manifestations lycéennes. Pendant que certains saccagent, les Français paient deux fois : pour ce tutoriel et pour réparer les dégâts ! Que fait l'État ? » Le titre de Valeurs actuelles (« France Télévisions livre un tutoriel pour aider les manifestants à faire face aux forces de l'ordre ») est le cadrage du journal.",
+   "SNJ FTV (15/10/2026) : « Le sujet a été validé par l'encadrement » ; la vidéo « donne lieu à un déferlement en ligne d'insultes et de menaces, y compris de mort, venant de l'extrême droite » ; l'accusation d'inciter à des manifestations violentes est « reprise en particulier par Cnews et Europe 1 » ; le journaliste a porté plainte ; « Trois jours après le début de cette vague de menaces, rien ! » côté direction.",
+   "CGT FTV (19/10/2026) : la « presse d'extrême droite » accuse le journaliste d'offrir un « kit anti-lacrymos aux émeutiers » ; la direction a réagi « par le biais d'un mail lunaire au personnel » où la directrice régionale « se félicite d'abord de l'audience […] Avec plus de 900 000 vues au 15 octobre. Mais pas un mot sur les menaces reçues » ; « Juste un timide soutien […] en fin de mail ».",
+   "Le chiffre de 900 000 vues provient d'un mail interne tel que cité par la CGT : il n'est pas vérifié de façon indépendante."
+  ],
+  "these_auteur": "Valeurs actuelles / RN : la vidéo aiderait les manifestants face aux forces de l'ordre et serait financée à tort par le contribuable. SNJ / CGT : la vidéo est un contenu de prévention validé par l'encadrement, et le journaliste est victime de harcèlement que la direction n'aurait pas condamné. Ce sont des positions, pas des faits établis.",
+  "reponse_ftv": "Aucune réponse publique de France Télévisions à la polémique ni aux menaces retrouvée (la CGT et le SNJ affirment qu'il n'y en a pas eu ; seul un mail interne régional est mentionné par la CGT, non consulté).",
+  "reserves": [
+   "Pas de montant. La phrase « financée par les contribuables » est une opinion politique (M. Marchio) : France 3 est financée par la redevance-dotation publique comme tout le groupe, sans coût propre établi pour cette vidéo.",
+   "Alsace ou Nancy : Valeurs actuelles et Le JDD (France 3 Alsace) vs SNJ et CGT (France 3 Nancy). Une seconde recherche n'a pas permis de trancher.",
+   "La vidéo elle-même n'a pas été visionnée : seuls ses contenus décrits et cités par la presse ont été lus.",
+   "Cnews et Europe 1 : mentionnés par le SNJ ; leurs contenus n'ont pas été consultés."
+  ],
+  "liens": [
+   "https://www.lejdd.fr/Societe/blocus-des-lycees-france-televisions-critiquee-pour-son-tutoriel-anti-gaz-lacrymogenes-186000",
+   "https://snj-francetv.fr/le-snj-apporte-tout-son-soutien-au-journaliste-de-france-3-nancy-victime-de-menaces-de-mort/",
+   "https://www.snjcgt.fr/2026/10/19/agression-de-salaries-dans-lexercice-de-leur-fonction-la-direction-de-france-televisions-doit-soutenir-et-proteger-ses-equipes/",
+   "https://www.cgtftv.fr/images/communiques/261019a.pdf"
+  ],
+  "camp": [
+   "RN"
+  ],
+  "camp_pourquoi": [
+   "C3 – Critique politique citée : le député RN Matthieu Marchio (sur X, repris par Le JDD le 14/10/2026) ; Valeurs actuelles (média) reprend ce cadrage.",
+   "C3 – Défense du journaliste : SNJ et CGT (syndicats ; aucun parti cité) ; la direction n'a pas répondu.",
+   "Camp attribué selon l'acteur politique critique : RN. Le cadrage de Valeurs actuelles n'est pas une affiliation partisane."
+  ],
+  "camp_resume": "Critique politique portée par un député RN (cité) ; défense syndicale non partisane"
+ },
+ {
+  "id": "conseil-etat-893m",
+  "titre": "Cabinets de conseil : dépenses de conseil des ministères de 379,1 M€ (2018) à 893,9 M€ (2021)",
+  "montant": "893,9 M€ (2021) vs 379,1 M€ (2018) ; > 1 Md€ avec un échantillon d'opérateurs (171,9 M€)",
+  "date": "2022-03-16",
+  "tags": [
+   "cabinets de conseil",
+   "conflits d'intérêts",
+   "gouvernance"
+  ],
+  "statut": "Confirmé",
+  "source": {
+   "organisme": "Sénat – commission d'enquête sur l'influence croissante des cabinets de conseil privés",
+   "document": "Rapport n° 578 (2021-2022), « Un phénomène tentaculaire », déposé le 16/03/2022, tome I",
+   "page": "pp. 44-45 (dépenses de conseil), p. 8 (synthèse)",
+   "url": "https://www.senat.fr/rap/r21-578-1/r21-578-11.pdf"
+  },
+  "faits": [
+   "« En 2021, les dépenses de conseil de l'État au sens large ont dépassé le milliard d'euros, dont 893,9 millions pour les ministères et 171,9 millions pour un échantillon de 44 opérateurs. »",
+   "« le montant des dépenses des ministères relevant du conseil au sens de la nomenclature des achats de l'État s'élevait à 893,9 millions d'euros en 2021, contre 379,1 millions d'euros en 2018 (hors opérateurs). Les dépenses de conseil ont donc plus que doublé […] avec une forte accélération lors de l'exercice 2021 (+ 45 %). »",
+   "Dépenses de conseil « à forte dimension stratégique » : 445,6 M€ en 2021, dont 247,5 M€ hors informatique, contre 152,5 M€ en 2018.",
+   "La commission note que l'estimation est minimale : l'échantillon d'opérateurs ne représente que 10 % du total (même page)."
+  ],
+  "reponse_ftv": "Réponse du Gouvernement : non étudiée dans cette passe (circulaire et réformes postérieures non vérifiées).",
+  "reserves": [
+   "Rapport d'une commission d'enquête du Sénat : chiffres fournis par la direction du budget, périmètre « conseil au sens de la nomenclature des achats de l'État » (inclut du conseil informatique).",
+   "Ces dépenses ne sont pas établies comme injustifiées par le rapport lui-même ; il met en cause l'opacité, la dépendance et la déontologie.",
+   "Le rapport écrit « 44 opérateurs » dans le corps du texte et « 40 » dans un compte rendu d'audition reproduit en annexe du même PDF."
+  ],
+  "liens": [
+   "https://www.senat.fr/rap/r21-578-1/r21-578-1.html",
+   "https://www.senat.fr/compte-rendu-commissions/20220314/ce_conseil.html"
+  ],
+  "camp": [
+   "macroniste"
+  ],
+  "camp_pourquoi": [
+   "C1 – Dépenses de conseil des ministères : 379,1 M€ (2018) → 893,9 M€ (2021) : intégralement sous la présidence Macron.",
+   "C2 – Dépenses décidées par les ministères du gouvernement en place sur la période.",
+   "C3 – La commission d'enquête du Sénat a pour président A. Bazin (LR) et rapporteure É. Assassi (CRCE) : critique pluraliste, non retenue comme camp."
+  ],
+  "camp_resume": "2018-2021 sous exécutif Macron ; commission sénatoriale pluraliste"
+ },
+ {
+  "id": "mckinsey-impot-0-euro",
+  "titre": "McKinsey France : 0 € d'impôt sur les sociétés pendant au moins dix ans selon le Sénat (2011-2020) ; enquête du PNF et saisie de 65,2 M€ (04/09/2026)",
+  "montant": "0 € d'IS versé 2011-2020 (selon le Sénat) pour 329 M€ de chiffre d'affaires en 2020 ; saisie conservatoire : 65,2 M€ (= 96 % du préjudice fiscal évalué par le PNF)",
+  "date": "2022-03-16",
+  "tags": [
+   "cabinets de conseil",
+   "conflits d'intérêts"
+  ],
+  "statut": "Nuancé",
+  "source": {
+   "organisme": "Sénat (rapport n° 578) ; Parquet national financier (communiqué 04/09/2026, via franceinfo)",
+   "document": "Rapport n° 578, tome I, section III.D ; communiqué du Sénat du 25/03/2022",
+   "page": "p. 219",
+   "url": "https://www.senat.fr/rap/r21-578-1/r21-578-11.pdf"
+  },
+  "faits": [
+   "Rapport du Sénat : « le cabinet McKinsey est bien assujetti à l'impôt sur les sociétés (IS) en France mais ses versements s'établissent à zéro euro depuis au moins 10 ans, alors que son chiffre d'affaires sur le territoire national atteint 329 millions d'euros en 2020, dont environ 5 % dans le secteur public, et qu'il y emploie environ 600 salariés ».",
+   "Sénat, 25/03/2022 : saisine de la justice (art. 40 du code de procédure pénale) pour « suspicion de faux témoignage » après la déclaration sous serment du 18/01/2022 d'un directeur associé (« nous payons l'impôt sur les sociétés en France »).",
+   "Parquet national financier (communiqué du 04/09/2026, rapporté par franceinfo) : saisie de 65,2 M€, « montant correspondant à 96% du préjudice fiscal selon l'évaluation du parquet national financier », dans une enquête pour blanchiment aggravé de fraude fiscale ouverte en mars 2022 ; perquisitions en mai 2022 ; auditions de témoins et de suspects en 2025 et 2026 ; coopération du parquet de Bruxelles."
+  ],
+  "reponse_ftv": "McKinsey (25/03/2022) : « McKinsey paie la fiscalité directe et indirecte due chaque année » ; « Entre 2011 et 2020, McKinsey a payé plus de 422 millions d'euros d'impôts et de charges sociales, soit près de 20% de son chiffre d'affaires cumulé » ; « sa filiale de mise en œuvre a payé 6 ans l'impôt sur les sociétés » ; approche de prix de transfert conforme aux principes directeurs de l'OCDE (06/04/2022). Le 04/09/2026 : la saisie est « une mesure procédurale […] Elle ne constitue pas une décision de justice. Nous continuons de coopérer […] et de contester toute faute de notre part. » (https://www.mckinsey.com/fr/our-insights/reaction-de-mckinsey-france)",
+  "reserves": [
+   "Aucune décision de justice : présomption d'innocence. La saisie conservatoire n'est pas une condamnation.",
+   "Le Sénat constate des versements d'IS nuls ; il ne chiffre pas d'impôt éludé. Le préjudice fiscal est évalué par le PNF, sans montant total publié dans l'extrait lu.",
+   "Suite donnée à la saisine du Sénat pour faux témoignage : non vérifiée.",
+   "Le communiqué du PNF n'a pas été lu directement (franceinfo, 04/09/2026)."
+  ],
+  "liens": [
+   "https://www.senat.fr/salle-de-presse/communiques-de-presse/presse/cp20220325.html",
+   "https://www.franceinfo.fr/economie/fraude/le-parquet-national-financier-annonce-une-saisie-de-65-millions-d-euros-dans-l-enquete-pour-fraude-fiscale-autour-du-cabinet-de-conseil-mckinsey_8177375.html",
+   "https://www.mckinsey.com/fr/our-insights/reaction-de-mckinsey-france"
+  ],
+  "camp": [
+   "macroniste"
+  ],
+  "camp_pourquoi": [
+   "C1/C2 – Rattachement fondé sur l'objet du rapport du Sénat (le recours de l'État aux cabinets de conseil, 2018-2021, sous exécutif Macron), la saisine du Sénat de 2022 et l'enquête du PNF ouverte en mars 2022 (exécutif Macron).",
+   "Précision : les versements d'impôt nuls de McKinsey couvrent 2011-2020 (plusieurs exécutifs) ; ce comportement fiscal est celui d'une entreprise, pas une décision d'un exécutif. Le tag « macroniste » porte sur le contexte du recours de l'État, pas sur le comportement fiscal.",
+   "C4 – McKinsey conteste toute faute (cité) ; aucune lecture partisane dans les sources."
+  ],
+  "camp_resume": "Contexte du recours de l'État aux cabinets sous exécutif Macron (faits fiscaux 2011-2020 antérieurs)"
+ },
+ {
+  "id": "aides-entreprises-211-md",
+  "titre": "Aides publiques aux entreprises : au moins 211 Md€ en 2023 (estimation du Sénat), plus de 2 200 dispositifs",
+  "montant": "≥ 211 Md€ (2023, sens large) ; 108 Md€ (sens strict)",
+  "date": "2025-07-01",
+  "tags": [
+   "aides aux entreprises",
+   "gouvernance"
+  ],
+  "statut": "Nuancé",
+  "source": {
+   "organisme": "Sénat – commission d'enquête sur l'utilisation des aides publiques aux grandes entreprises et à leurs sous-traitants (président O. Rietmann, rapporteur F. Gay)",
+   "document": "Rapport n° 808 (2024-2025), remis le 01/07/2025, rendu public le 08/07/2025, tome I",
+   "page": "synthèse pp. 7-8 ; tome I p. 20",
+   "url": "https://www.senat.fr/rap/r24-808-1/r24-808-11.pdf"
+  },
+  "faits": [
+   "« Au sens large, les aides publiques aux entreprises atteignent au moins 211 milliards d'euros en 2023. Ont été retenues les subventions de l'État, les aides versées par Bpifrance, les dépenses fiscales et les dépenses fiscales « déclassées » ainsi que les allègements de cotisations sociales. »",
+   "« Si l'on exclut les interventions financières de Bpifrance, les dépenses fiscales déclassées et les dépenses fiscales sur la TVA, l'estimation […] passe de 211 à 108 milliards d'euros. »",
+   "« Plus de 2 200 dispositifs » recensés (le chiffre de 2 252 vu dans la presse n'a pas été vérifié). La commission écrit avoir dû « réaliser elle-même une estimation […] cette estimation n'indique qu'un ordre de grandeur compte tenu de l'indisponibilité de certaines informations ».",
+   "Le rapport formule 26 propositions (transparence, rationalisation, conditionnalité, évaluation)."
+  ],
+  "reponse_ftv": "Les dirigeants d'entreprises ont été auditionnés (33) ; leurs positions ne sont pas reprises ici. La synthèse du rapport inclut une section sur le contexte global : « les prélèvements obligatoires des entreprises sont élevés ».",
+  "reserves": [
+   "Estimation par la commission elle-même, périmètre large (inclut allègements de cotisations et dépenses fiscales) : ce n'est ni un gaspillage ni un montant « versé en chèques ».",
+   "Pas d'évaluation d'efficacité dans ce chiffre : le rapport demande précisément qu'elle soit faite.",
+   "Aides aux grandes entreprises seules : montant non repris ici."
+  ],
+  "liens": [
+   "https://www.senat.fr/rap/r24-808-1/r24-808-1-syn.pdf"
+  ],
+  "camp": [
+   "transverse"
+  ],
+  "camp_pourquoi": [
+   "C1 – Estimation pour 2023 (exécutif Macron) mais dispositifs empilés par plusieurs exécutifs (plus de 2 200 dispositifs).",
+   "C3 – Commission d'enquête du Sénat : président O. Rietmann (LR), rapporteur F. Gay (CRCE-K, groupe communiste) : lectures de camps différents réunies dans un même rapport."
+  ],
+  "camp_resume": "Dispositifs cumulés sur plusieurs exécutifs ; président LR, rapporteur communiste"
+ },
+ {
+  "id": "dexia-cour-6-6-md",
+  "titre": "Dexia : un coût direct de 6,6 Md€ pour les finances publiques françaises (Cour des comptes, 2013)",
+  "montant": "6,6 Md€ (2,7 Md€ État + 3,9 Md€ groupe Caisse des dépôts) ; garantie jusqu'à 38,75 Md€ pour la France",
+  "date": "2013-07-01",
+  "tags": [
+   "Privatisation des gains / socialisation des pertes",
+   "gouvernance"
+  ],
+  "statut": "Confirmé",
+  "source": {
+   "organisme": "Cour des comptes",
+   "document": "Rapport public thématique « Dexia : un sinistre coûteux, des risques persistants » (juillet 2013), synthèse et discours ; rapport public annuel 2016, tome II",
+   "page": "RPA 2016 tome II, p. 446 ; synthèse RPT",
+   "url": "https://www.ccomptes.fr/fr/documents/25264"
+  },
+  "faits": [
+   "« Le coût direct, à ce jour, de ce sinistre bancaire s'élève, pour la seule partie française, à 6,6 Md€. Il est réparti entre un coût net de 2,7 Md€ pour l'État et de 3,9 Md€ (Fonds d'épargne inclus) pour la Caisse des dépôts et consignations. »",
+   "Coût direct pour l'État 2,72 Md€ = capital 2008 (1 Md€) + augmentation de capital de décembre 2012 (2,585 Md€) − rémunérations de garanties 2008-2012 (864 M€).",
+   "RPA 2016 : « Pour les finances publiques françaises, l'incidence directe s'est élevée à 6,618 Md€ » ; réduite de près de 200 M€ depuis 2013 grâce à la rémunération de la garantie ; la France, la Belgique et le Luxembourg garantissent jusqu'à 85 Md€ d'émissions (plafond France : 38,75 Md€) ; au 30/09/2015 : 28,5 Md€ garantis par la France.",
+   "Le rapport écrit : « La Cour n'a pas évalué les coûts pour la partie belge »."
+  ],
+  "reponse_ftv": "Réponses des ministres jointes au rapport : non lues dans cette passe.",
+  "reserves": [
+   "Les textes ont été lus dans les extraits des pages ccomptes.fr de la synthèse et du discours (accessibles par moteur de recherche) ; les PDF intégraux n'ont pas pu être téléchargés depuis la box.",
+   "Chiffre arrêté à 2012-2013 : le coût final dépend de l'extinction de Dexia (garanties encore ouvertes).",
+   "La Cour décrit un « sinistre » ; elle ne parle pas de « socialisation des pertes » : l'étiquette du tag est celle de l'Observatoire."
+  ],
+  "liens": [
+   "https://www.ccomptes.fr/fr/documents/25268",
+   "https://www.ccomptes.fr/sites/default/files/EzPublish/11-gestion-extinctive-Dexia-RPA2016-Tome-2.pdf"
+  ],
+  "camp": [
+   "transverse"
+  ],
+  "camp_pourquoi": [
+   "C1/C2 – Sauvetage de 2008 (exécutif Sarkozy-Fillon) et augmentation de capital de décembre 2012 (exécutif Hollande) : le coût de 6,6 Md€ traverse deux exécutifs.",
+   "C3 – Source : Cour des comptes (2013), aucun acteur partisan."
+  ],
+  "camp_resume": "2008 (Sarkozy) et 2012 (Hollande) : plusieurs exécutifs"
+ },
+ {
+  "id": "banques-2008-2009-bilan",
+  "titre": "Plan de soutien aux banques 2008-2009 : 19,75 Md€ de fonds propres, 77 Md€ de prêts garantis, et un bilan positif de 2,7 Md€ pour l'État selon le ministère (2011)",
+  "montant": "+2,7 Md€ (bilan ministère, 05/07/2011) ; 19,75 Md€ (SPPE) ; 77 Md€ (SFEF garantis)",
+  "date": "2011-07-05",
+  "tags": [
+   "Privatisation des gains / socialisation des pertes",
+   "livres"
+  ],
+  "statut": "Nuancé",
+  "source": {
+   "organisme": "Assemblée nationale – réponse du ministère de l'économie à la question écrite n° 68734 (13e législature)",
+   "document": "Réponse publiée le 05/07/2011",
+   "page": "—",
+   "url": "https://www.assemblee-nationale.fr/dyn/13/questions/QANR5L13QE68734"
+  },
+  "faits": [
+   "« La Société de prise de participation de l'État (SPPE) a prêté 19,75 Mdeuros de fonds propres aux banques françaises (5,1 Mdeuros à BNP-Paribas, 3,4 […] Société Générale, 3 […] Crédit agricole 1,2 […] Crédit mutuel et 7,05 […] BPCE). À cela s'ajoute la garantie apportée par l'État sur les 77 Mdeuros prêtés aux banques par la […] SFEF. »",
+   "« le plan aura rapporté au total 2,7 Mdeuros à l'État » : 1,4 Md€ de rémunération des garanties SFEF, 0,8 Md€ de dividendes et primes nets (SPPE), 0,5 Md€ de rémunération payée par Dexia.",
+   "Dexia est traité à part : prise de participation de 1 Md€ et garanties jusqu'à 36,6 Md€ (fiche Dexia : coût net de 6,6 Md€ pour les entités publiques).",
+   "Cour des comptes (synthèse de juin 2009) : dispositif SFEF avec garantie de l'État pour un maximum de 265 Md€ ; SPPE détenue à 100 % par l'État ; plan « centré sur le passif des banques »."
+  ],
+  "reponse_ftv": "Source = réponse du ministère lui-même (partie prenante). Une évaluation de la Cour des comptes en 2010 évoquait un gain net budgétaire d'environ 850 M€ après coûts indirects : non vérifiée dans le texte de la Cour (extraits de presse uniquement).",
+  "reserves": [
+   "Le chiffre de 2,7 Md€ est celui du ministère, hors coûts de refinancement et hors soutien de la Banque de France ; il ne couvre pas Dexia (voir fiche Dexia).",
+   "Le plan SFEF/SPPE n'est donc pas, à lui seul, une « socialisation des pertes » au sens de l'expression ; Dexia est un cas distinct de perte publique.",
+   "Cet écart avec la thèse de P. Jovanovic est détaillé dans la fiche livre (thèse non confirmée pour le plan SFEF/SPPE, partiellement étayée pour Dexia)."
+  ],
+  "liens": [
+   "https://www.ccomptes.fr/sites/default/files/EzPublish/Synthese-Banque.pdf"
+  ],
+  "camp": [
+   "droite/LR"
+  ],
+  "camp_pourquoi": [
+   "C1/C2 – Plan SFEF/SPPE de 2008-2009 mis en œuvre par l'exécutif Sarkozy-Fillon (UMP, ancêtre de LR) ; bilan publié le 05/07/2011 dans la réponse du ministère de l'économie du même exécutif.",
+   "C3 – Question de M. Verchère, député UMP (Rhône) ; la réponse émane du ministère.",
+   "C4 – Le livre de Jovanovic porte une lecture contraire (voir sa fiche)."
+  ],
+  "camp_resume": "Plan 2008-2009 et bilan 2011 sous exécutif Sarkozy-Fillon (UMP)"
+ },
+ {
+  "id": "fraude-indus-cour-2025",
+  "titre": "Indus de la Sécurité sociale : 18,9 Md€ en 2023 (dont 8,6 Md€ non détectés) ; fraude estimée 8,2 à 8,9 Md€ contre 0,7 Md€ comptabilisés",
+  "montant": "18,9 Md€ d'indus (≈ 5 % des prestations) ; fraude estimée 8,2-8,9 Md€ ; 0,7 Md€ comptabilisés",
+  "date": "2025-05-01",
+  "tags": [
+   "fraude sociale",
+   "gouvernance"
+  ],
+  "statut": "Nuancé",
+  "source": {
+   "organisme": "Cour des comptes",
+   "document": "Rapport sur l'application des lois de financement de la sécurité sociale (mai 2025), chap. IX « La gestion des indus par les caisses de sécurité sociale du régime général »",
+   "page": "pp. 289-299, 313",
+   "url": "https://www.ccomptes.fr/sites/default/files/2025-05/20250526-RALFSS-2025-Gestion-indus-par-caisses-SS-du-regime-general.pdf"
+  },
+  "faits": [
+   "« Le montant des indus détectés en 2023 a atteint 10,3 Md€ […] une part importante n'est toutefois jamais détectée […] Elle est estimée à 8,6 Md€. L'ensemble (18,9 Md€) représente près de 5 % des prestations. »",
+   "« les indus frauduleux comptabilisés, d'un montant de 0,7 Md€, sont nettement moins élevés que leur montant estimé par les branches et la Cour, compris entre 8,2 et 8,9 Md€ » (tableau 29 : maladie 3,8-4,5 ; famille 4,2 ; vieillesse 0,2).",
+   "Recouvrement : environ 9 Md€ recouvrés en 2023 ; restes à recouvrer 3,9 Md€ (valeur brute) fin 2023 ; pertes d'indus de 179 M€ (maladie, +66 % vs 2019) et 237 M€ (famille, +50 %).",
+   "La Cour estime qu'un objectif de détection rehaussé en branche maladie rapporterait 1,5 Md€ par an ; recouvrer l'ensemble des franchises et participations dues : 0,5 à 1 Md€ (p. 313)."
+  ],
+  "reponse_ftv": "Réponses des administrations : non lues (non incluses dans le texte récupéré).",
+  "reserves": [
+   "Les « indus » regroupent erreurs, omissions et fraudes ; la Cour définit la fraude comme une erreur intentionnelle ; les « indus frauduleux » incluent les « indus fautifs » (intention non démontrée).",
+   "Les montants non détectés sont des extrapolations d'échantillons de contrôle interne ; pour la maladie, l'estimation de la Cnam ne couvre que 30 % des dépenses et la Cour applique « une règle de trois ».",
+   "Indus ≠ fraude : 8,6 Md€ non détectés ne sont pas des fraudes avérées.",
+   "Chiffres d'autres sources (ex. 4,5 Md€ de fraude à l'assurance maladie, avril 2025) : non retenus ici."
+  ],
+  "liens": [
+   "https://www.ccomptes.fr/fr/documents/75403"
+  ],
+  "camp": [
+   "macroniste"
+  ],
+  "camp_pourquoi": [
+   "C1 – Indus 2023 et comparaisons avec 2019 : période intégralement sous la présidence Macron.",
+   "C2 – Caisses du régime général placées sous la tutelle de l'exécutif en place ; la Cour formule des recommandations à ces administrations.",
+   "C3/C4 – Source : Cour des comptes (non partisane) ; aucune lecture politique dans la source ; la fraude n'est pas imputée à un camp."
+  ],
+  "camp_resume": "Données 2019-2023 sous exécutif Macron ; Cour des comptes, aucune lecture partisane"
+ },
+ {
+  "id": "agences-operateurs-senat-2025",
+  "titre": "Agences et opérateurs de l'État : 434 opérateurs, 402 218 ETPT et 77 Md€ de financements publics (PLF 2025)",
+  "montant": "77 Md€ de financements publics ; 434 opérateurs ; 402 218 ETPT ; 103 agences ; 317 organismes consultatifs",
+  "date": "2025-07-01",
+  "tags": [
+   "opérateurs et agences",
+   "gouvernance"
+  ],
+  "statut": "Nuancé",
+  "source": {
+   "organisme": "Sénat – commission d'enquête sur les missions des agences, opérateurs et organismes consultatifs de l'État",
+   "document": "Rapport n° 807 (2024-2025), « Agencification : une méthodologie repensée pour une action publique renforcée », tome I, juillet 2025",
+   "page": "avant-propos ; p. 43 (PDF)",
+   "url": "https://www.senat.fr/fileadmin/Illustrations/Controle/Structures_temporaires/2024-2025/CE-Agences_Etat/TOME_I_-_Rapport_CE_Agences.pdf"
+  },
+  "faits": [
+   "« Au projet de loi de finances (PLF) pour 2025, sont inscrits 434 opérateurs de l'État rémunérant 402 218 emplois sous plafond (ETPT) et bénéficiant de 77 milliards d'euros de financements publics. »",
+   "« 103 agences, 434 opérateurs, 317 organismes consultatifs, 1 200 organismes publics nationaux… Ces chiffres […] traduisent moins un simple démembrement de l'État qu'un véritable émiettement de l'action publique » (avant-propos) ; l'« Essentiel » parle de 1 153 organismes publics nationaux.",
+   "Sur les organismes consultatifs : le « jaune » budgétaire qui les liste présente « des lacunes : absence d'organismes importants, coûts indiqués ne correspondant qu'à certains coûts directs et pas aux coûts indirects, bien plus élevés ».",
+   "« le personnel employé par les agences est mal connu de l'administration centrale »."
+  ],
+  "reponse_ftv": "Réponse du Gouvernement : non étudiée.",
+  "reserves": [
+   "Le chiffre de 77 Md€ est un financement public, pas un gaspillage : le rapport décrit un émiettement et un défaut de pilotage, sans chiffrer de gaspillage.",
+   "Recomptages divergents (1 153 / 1 200 organismes ; 426 opérateurs début 2025 après fusions) : le rapport lui-même signale des variations."
+  ],
+  "liens": [
+   "https://www.senat.fr/rap/r24-807-1/r24-807-1-syn.pdf",
+   "https://www.senat.fr/travaux-parlementaires/structures-temporaires/commissions-denquete/commission-denquete-sur-les-missions-des-agences-operateurs-et-organismes-consultatifs-de-letat.html"
+  ],
+  "camp": [
+   "transverse"
+  ],
+  "camp_pourquoi": [
+   "C1 – 103 agences et 434 opérateurs constitués au fil de plusieurs exécutifs ; chiffres du PLF 2025.",
+   "C3 – Commission créée à l'initiative du groupe LR, rapporteure Christine Lavarde (LR), président Pierre Barros (CRCE-K, communiste) : lectures de camps différents réunies."
+  ],
+  "camp_resume": "Structures accumulées sur plusieurs exécutifs ; rapporteure LR, président communiste"
+ },
+ {
+  "id": "radio-france-cour-2025",
+  "titre": "Radio France : 493 M€ pour la réhabilitation de la Maison de la Radio (+39 % vs 2008), masse salariale à 55 % des charges (Cour des comptes, 10/01/2025)",
+  "montant": "493 M€ HT (≈ 600 M€ HT avec les studios) ; dotation de fonctionnement 616 M€ (2024)",
+  "date": "2025-01-10",
+  "tags": [
+   "salaires",
+   "gouvernance"
+  ],
+  "statut": "Confirmé",
+  "source": {
+   "organisme": "Cour des comptes",
+   "document": "Rapport portant sur une entreprise publique : Radio France (exercices 2017-2024), publié le 10/01/2025",
+   "page": "synthèse en ligne",
+   "url": "https://www.ccomptes.fr/fr/publications/radio-france"
+  },
+  "faits": [
+   "« Le coût final de la réhabilitation s'établit à 493 M€ HT soit 39% de plus que le coût initial estimé en 2008 et atteint près de 600 M€ HT (ou 700 M€ TTC) si l'on tient compte de la rénovation des studios de création. »",
+   "« les dépenses de personnel représentent 55% des charges d'exploitation » ; crédits de fonctionnement de 616 M€ en 2024 ; « Le plan de rupture conventionnelle collective – financé par l'État aux deux tiers – mis en œuvre en 2020 n'a que partiellement atteint ses objectifs ».",
+   "« Les difficultés de déploiement du SIRH […] se sont traduites par un allongement du calendrier et un doublement du coût du projet qui présente toujours des dysfonctionnements. »",
+   "« Un cadre social avantageux marqué par une multiplicité des statuts » ; les « règles très favorables en matière de congés » conduisent à recourir à des contrats précaires.",
+   "Aspects positifs relevés par la Cour : audience en hausse (30 % de part d'audience en 2023), transformation numérique réussie, chantier de la Maison de la Radio « sous contrôle » depuis 2017."
+  ],
+  "reponse_ftv": "Deux réponses sont publiées avec le rapport (ministre de la culture ; présidente-directrice générale de Radio France) : leur contenu n'a pas été lu dans cette passe.",
+  "reserves": [
+   "Lu sur la page de synthèse de la Cour : le PDF de 10 Mo et les réponses n'ont pas été relus.",
+   "Chantier engagé en 2004 : la Cour indique qu'il a été repris en main depuis 2017."
+  ],
+  "liens": [
+   "https://www.ccomptes.fr/sites/default/files/2025-01/20250108-S2024-1416-Radio-France.pdf"
+  ],
+  "camp": [
+   "transverse"
+  ],
+  "camp_pourquoi": [
+   "C1/C2 – Chantier de la Maison de la Radio : estimation initiale de 2008 (exécutif Sarkozy-Fillon), coût final constaté par la Cour en 2025 : le chantier traverse plusieurs exécutifs ; RCC de 2020 « financée par l'État aux deux tiers » (exécutif Macron).",
+   "C3 – Source : Cour des comptes ; réponses de la ministre et de la PDG annexées, non lues."
+  ],
+  "camp_resume": "Chantier estimé en 2008 (Sarkozy-Fillon), constat 2025 : plusieurs exécutifs ; RCC 2020 sous Macron"
+ },
+ {
+  "id": "associations-immigration-cour-2025",
+  "titre": "Associations de la politique d'immigration et d'intégration : 2,3 Md€ de crédits (2023, +23 % depuis 2019) et des contrôles inégaux (Cour des comptes, 11/02/2025)",
+  "montant": "2,3 Md€ (crédits de la mission, 2023) ; 263 M€ aux associations pour l'accompagnement des demandeurs d'asile et réfugiés hébergés (+45,5 % depuis 2019)",
+  "date": "2025-02-11",
+  "tags": [
+   "associations",
+   "gouvernance"
+  ],
+  "statut": "Nuancé",
+  "source": {
+   "organisme": "Cour des comptes (enquête demandée par le président de la commission des finances du Sénat)",
+   "document": "« Les missions, le financement et le contrôle par l'État des associations intervenant au titre de la politique d'immigration et d'intégration », 11/02/2025",
+   "page": "page de synthèse",
+   "url": "https://www.ccomptes.fr/fr/publications/les-missions-le-financement-et-le-controle-par-letat-des-associations-intervenant-au"
+  },
+  "faits": [
+   "« Ces crédits ont augmenté de 23% entre 2019 et 2023, atteignant 2,3 Md€. En 2023, selon l'estimation de la Cour, 263 M€ ont été attribués aux associations pour l'accompagnement des demandeurs d'asile et réfugiés hébergés, soit une hausse de 45,5% depuis 2019, avec un coût par place d'hébergement de plus de 3 000 €, en hausse de 36 %. »",
+   "CIR : 76,3 M€ en 2023 (+114 %), 1 032 € par signataire (+68 %).",
+   "« Les contrôles sur les associations sont appliqués de manière inégale » : l'Ofii audite rigoureusement ses marchés ; les opérateurs d'hébergement et les associations en crédits déconcentrés « font l'objet de contrôles occasionnels et peu formalisés ».",
+   "« il n'existe pas de référentiel commun (tâches et temps moyen nécessaire) en matière d'accompagnement » ; « le faible degré de concurrence dans certains territoires […] limite la maîtrise des coûts »."
+  ],
+  "reponse_ftv": "La Cour explique la hausse des coûts unitaires « par l'intensification des actions (réforme du CIR), et par un profil de bénéficiaires requérant davantage d'accompagnement ». Réponses des administrations : non lues.",
+  "reserves": [
+   "La Cour ne qualifie pas ces montants de gaspillage ; elle relève un pilotage et des contrôles insuffisants et une hausse « expliquée seulement en partie par l'évolution des flux ».",
+   "Sujet politiquement sensible : l'Observatoire ne reprend que les constats de la Cour.",
+   "Le rapport complet (PDF) n'a pas pu être téléchargé : fiche établie sur la page de synthèse officielle."
+  ],
+  "liens": [],
+  "camp": [
+   "macroniste"
+  ],
+  "camp_pourquoi": [
+   "C1 – Crédits 2019 → 2023 (+23 %, 2,3 Md€) : période intégralement sous la présidence Macron.",
+   "C2 – Crédits de la mission « Immigration, asile et intégration » votés et exécutés sous cet exécutif ; la Cour a enquêté à la demande de la commission des finances du Sénat (art. 58-2 LOLF).",
+   "C3/C4 – Aucun acteur partisan dans la source ; la Cour ne qualifie pas ces montants de gaspillage et explique la hausse en partie par les flux et les profils. Sujet sensible : le camp est attribué par la période et la tutelle, non par une lecture politique."
+  ],
+  "camp_resume": "2019-2023 sous exécutif Macron ; Cour des comptes, pas de lecture partisane"
+ },
+ {
+  "id": "afd-siege-840m",
+  "titre": "Siège de l'AFD (Paris Rive Gauche) : 840 M€, 924 M€ frais inclus, selon l'avis du CIE cité à l'Assemblée ; réponse du ministère le 15/09/2026",
+  "montant": "840 M€ (924 M€ frais inclus) ; ≈ 18 500 €/m² ; 50 000 m²",
+  "date": "2026-09-15",
+  "tags": [
+   "immobilier",
+   "opérateurs et agences"
+  ],
+  "statut": "Nuancé",
+  "source": {
+   "organisme": "Assemblée nationale – question écrite n° 15786 (17e législature, Mme M. Hamelet, RN) et réponse du ministère de l'Europe et des affaires étrangères",
+   "document": "JO du 09/06/2026 (question), JO du 15/09/2026 (réponse)",
+   "page": "p. 5071 (question), p. 8431 (réponse)",
+   "url": "https://questions.assemblee-nationale.fr/q17/17-15786QE.htm"
+  },
+  "faits": [
+   "La question cite l'avis de juin 2021 du Conseil de l'immobilier de l'État : « le montant de l'opération est estimé à 840 millions d'euros, porté à plus de 924 millions d'euros frais inclus, soit un prix de revient de l'ordre de 18 500 euros le mètre carré » ; ce niveau « excède d'environ 50 % le prix moyen » (12 000 €/m²) ; surfaces excédentaires d'au moins 8 000 m².",
+   "Question : renforcement des fonds propres de l'AFD par l'État en 2021 (≈ 1,45 Md€ : 500 M€ de dotation et ≈ 950 M€ de conversion) puis 190 M€ (2022), 150 M€ (2023), 145 M€ (2025) ; risque de moins-value latente de 300 à 450 M€ (estimation de la députée).",
+   "Réponse du ministère : l'opération « n'engage pas de coûts pour l'Etat et est financée par l'AFD sur ses ressources propres, notamment par recours à l'emprunt et par la cession d'actifs immobiliers existants » ; elle n'a « pas fait état d'un prix d'acquisition décorrélé des valeurs de marché » ; 38 000 m² de bureaux pour le groupe et 8 000 m² loués ; « Aucune dépréciation n'est anticipée » ; « l'Etat n'envisage pas de nouvelle dotation en capital de l'AFD autre que la conversion annuelle de RCS »."
+  ],
+  "reponse_ftv": "Oui : réponse du ministère (15/09/2026), reproduite ci-dessus. Le ministère ne conteste pas les montants de 840/924 M€ ; il conteste l'idée d'un coût pour l'État.",
+  "reserves": [
+   "Les chiffres du CIE sont repris de la question d'un député (RN) : l'avis du CIE lui-même n'a pas été relu.",
+   "Le chiffre de 300-450 M€ de moins-value potentielle est une estimation de la députée, non confirmée.",
+   "Le surcoût de 50 % est comparé au « prix moyen alors constaté dans ce secteur » (selon la question)."
+  ],
+  "liens": [
+   "https://www.afd.fr/fr/actualites/nouveau-siege-commun-groupe-afd-2026"
+  ],
+  "camp": [
+   "macroniste",
+   "RN"
+  ],
+  "camp_pourquoi": [
+   "C1/C2 – Opération autorisée en janvier 2020 (exécutif Macron), avis du CIE de juin 2021, réponse du ministère le 15/09/2026 (exécutif Macron) : le ministère défend l'opération.",
+   "C3 – Critique portée par la députée Marine Hamelet (RN) dans la question écrite n° 15786.",
+   "C4 – Lectures opposées citées : « n'engage pas de coûts pour l'Etat » (ministère) vs moins-value potentielle de 300-450 M€ (estimation de la députée, non confirmée)."
+  ],
+  "camp_resume": "Opération et défense par l'exécutif Macron ; critique portée par une députée RN"
+ },
+ {
+  "id": "alstom-commission-2018",
+  "titre": "Alstom (2014) : deux lectures dans le rapport de la commission d'enquête de 2018 (président O. Marleix / rapporteur G. Kasbarian)",
+  "montant": "12,35 Md€ (offre GE, 21/04/2014) ; 299 000 € (étude AT Kearney) ; 772 M$ (amende américaine)",
+  "date": "2018-04-19",
+  "tags": [
+   "conflits d'intérêts",
+   "gouvernance",
+   "livres"
+  ],
+  "statut": "Nuancé",
+  "source": {
+   "organisme": "Assemblée nationale – commission d'enquête sur les décisions de l'État en matière de politique industrielle (Alstom, Alcatel, STX)",
+   "document": "Rapport n° 897 rectifié (15e législature), tome I, déposé le 19/04/2018",
+   "page": "avant-propos du président ; 1re partie",
+   "url": "https://www.assemblee-nationale.fr/15/pdf/rap-enq/r0897-tI.pdf"
+  },
+  "faits": [
+   "Avant-propos du président Olivier Marleix : « en autorisant la vente d'Alstom à GE l'État a failli à préserver les intérêts nationaux » ; « Si l'on est arrivé à une telle défaillance de l'État à protéger ses intérêts fondamentaux, c'est par cécité, imprévision et entre soi. »",
+   "Même avant-propos : étude commandée par l'Agence des participations de l'État à AT Kearney le 23/10/2012 ; « il est regrettable que les autorités de l'État qui ont disposé d'une information suffisamment précise pour commander une étude au coût de 299 000 € sur l'avenir d'Alstom n'aient pas jugé utile de poursuivre leur action ».",
+   "Même avant-propos : la menace d'une amende attendue à « près d'1 milliard $ (finalement prononcée à 772 millions $) » a « accéléré la prise de décision » de Patrick Kron, sans en être « probablement […] la cause déterminante - qui reste économique ».",
+   "Partie rapporteur (G. Kasbarian) : « ces deux opérations, qui font sens sur le plan économique et industriel, ont permis et permettront demain à Alstom de s'adapter » ; General Electric a remis sa première offre le 21/04/2014 pour 12,35 Md€ pour la branche énergie ; « L'État a donc joué son rôle en utilisant les leviers à sa disposition »."
+  ],
+  "these_auteur": "O. Marleix (LR) : défaillance de l'État. G. Kasbarian (rapporteur, majorité) : l'État a joué son rôle. Les deux lectures figurent dans le même rapport (voir la fiche livre Marleix).",
+  "reponse_ftv": "Réponse de l'État / de GE / d'Alstom : non étudiée dans cette passe ; voir la partie rapporteur.",
+  "reserves": [
+   "Le texte a été lu dans la version HTML du rapport (open data de l'Assemblée) ; la pagination papier n'est pas reproduite.",
+   "Ce n'est pas une dérive budgétaire chiffrée : fiche sur la décision d'État ; seul le coût de l'étude (299 000 €) est un argent public direct.",
+   "Les documents judiciaires américains (DoJ, 772 M$) n'ont pas été relus : le montant est celui que cite le rapport."
+  ],
+  "liens": [
+   "https://www.assemblee-nationale.fr/dyn/opendata/RAPPANR5L15B0897-tI.html",
+   "https://lcp.fr/actualites/affaire-alstom-lenquete-parlementaire-qui-denonce-la-faillite-des-elites-francaises"
+  ],
+  "camp": [
+   "transverse",
+   "droite/LR",
+   "macroniste"
+  ],
+  "camp_pourquoi": [
+   "C1 – Cession de 2014 sous l'exécutif Hollande (ministre de l'Économie en fonctions) ; rapport d'avril 2018 sous l'exécutif Macron.",
+   "C3 – Commission créée à l'initiative du groupe LR : président O. Marleix (LR), rapporteur G. Kasbarian (LREM).",
+   "C4 – Deux lectures dans le même rapport : « l'État a failli à préserver les intérêts nationaux » (Marleix) et « L'État a donc joué son rôle en utilisant les leviers à sa disposition » (Kasbarian) : transverse, les deux lectures sont présentées."
+  ],
+  "camp_resume": "Faits 2014 (Hollande) ; lectures Marleix (LR) et Kasbarian (LREM) coexistent"
+ }
+]
